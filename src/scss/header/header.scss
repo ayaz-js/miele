@@ -1,0 +1,106 @@
+.miele-page .header {
+    &__wrapper {
+        position: relative;
+    }
+
+    &__logo {
+        position: absolute;
+        top: 0;
+        left: 72px;
+        z-index: 1 !important;
+        width: 180px !important;
+        height: 69px;
+    }
+
+    &__main-text {
+        position: absolute;
+        top: 134px;
+        left: 72px;
+        z-index: 2;
+        color: #fff;
+        max-width: 570px;
+        width: 100%;
+    }
+
+    &__title {
+        font-family: 'Museo Light';
+        font-size: 52px;
+        font-weight: 300;
+        line-height: 62px;
+        margin: 0;
+    }
+
+    &__subtitle {
+        font-family: 'Museo Light';
+        font-size: 20px;
+        font-weight: 300;
+        line-height: 26px;
+        margin: 24px 0 0;
+    }
+
+    &__button {
+        background-color: $base-color;
+        font-size: $base-font-size;
+        font-weight: 600;
+        padding: 14px 24px;
+        margin-top: 40px;
+        border-radius: 8px;
+        border-color: transparent;
+        color: #fff;
+        cursor: pointer;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    @media screen and (max-width: 820px) {
+        &__main-text {
+            top: 94px;
+        }
+
+        &__title {
+            font-size: 32px;
+            line-height: 38px;
+        }
+    }
+
+    @media screen and (max-width: 768px) {
+        &__main-text {
+            top: 86px;
+        }
+    }
+
+    @media screen and (max-width: 425px) {
+        &__logo {
+            left: 24px;
+            width: 120px !important;
+            height: 46px !important;
+        }
+
+        &__main-text {
+            top: 70px;
+            left: 24px;
+            max-width: 320px;
+            width: 100%;
+        }
+
+        &__subtitle {
+            font-size: 14px;
+            line-height: 18px;
+            margin: 8px 0 0;
+        }
+
+        &__button {
+            margin-top: 24px;
+            padding: 10px 24px;
+        }
+    }
+
+    @media screen and (max-width: 320px) {
+        &__main-text {
+            max-width: 300px;
+            width: 100%;
+        }
+    }
+}

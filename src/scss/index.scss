@@ -1,0 +1,28 @@
+@import './fonts/fonts.scss';
+@import './variables/variables.scss';
+@import './swiper-slider/swiper.min.scss';
+@import './swiper-slider/swiper-slider.scss';
+@import './header/header.scss';
+@import './content/content.scss';
+@import './features/features.scss';
+
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    background: #f7f7f7;
+}
+
+.cms-page li:last-child {
+    margin: 0 !important;
+}
+
+.miele-page * {
+    box-sizing: border-box;
+}
+
+.miele-page {
+    font-family: Museo Regular;
+    max-width: 1320px;
+    margin: 0 auto;
+}
