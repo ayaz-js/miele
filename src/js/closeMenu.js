@@ -4,13 +4,8 @@ import {
     burgerMenuCloseBtn
 } from "./constants";
 
-if (window.screen.width < 780) {
-    document.documentElement.style.overflowY = 'auto';
-    categoriesTabsContainer.classList.add('products__categories-tabs--hidden');
-}
-
 function closeMenu() {
-    categoriesTabsContainer.classList.add('products__categories-tabs--hidden');
+    categoriesTabsContainer.classList.add('products__categories--hidden');
     categoriesContainerOvelay.classList.add('products__categories-overlay--hidden');
 }
 
