@@ -1,3 +1,5 @@
 import '../scss/index.scss'
 import './swiper-slider.js'
 import './showTabContent.js'
+import './showMenu.js'
+import './closeMenu.js'
