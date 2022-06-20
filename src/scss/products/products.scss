@@ -1,34 +1,108 @@
 .miele-page .products {
+    position: relative;
     padding: 56px 0 42px;
 
-    &__category-tabs {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 16px;
-        max-width: 1052px;
-    }
+    &__categories {
+        &-tabs {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            max-width: 1052px;
 
-    &__category-tab {
-        font-size: $base-font-size;
-        font-weight: 600;
-        color: #8E979F;
-        background-color: transparent;
-        border: 1px solid $disabled-tab-color;
-        border-radius: 8px;
-        padding: 12px 14px;
-        transition: background-color 0.2s ease-in-out;
-        cursor: pointer;
+            @media screen and (max-width: 780px) {
+                position: fixed;
+                flex-direction: column;
+                align-items: flex-start;
+                right: 0;
+                bottom: 0%;
+                left: 0;
+                z-index: 102;
+                padding: 32px 18px 0;
+                background-color: #fff;
+                border-top-left-radius: 21px;
+                border-top-right-radius: 21px;
+                overflow-y: scroll;
+                transition: bottom 0.2s ease-in;
+            }
 
-        &--active {
-            background-color: $base-color;
-            border: 1px solid $base-color;
-            color: #fff;
+            &--hidden {
+                bottom: -100%;
+            }
         }
 
-        &:hover {
-            background-color: $base-color;
-            border: 1px solid $base-color;
-            color: #fff;
+        &-tab {
+            font-size: $base-font-size;
+            font-weight: 600;
+            color: #8E979F;
+            background-color: transparent;
+            border: 1px solid $disabled-tab-color;
+            border-radius: 8px;
+            padding: 12px 14px;
+            transition: background-color 0.2s ease-in-out;
+            cursor: pointer;
+
+            &--active {
+                background-color: $base-color;
+                border: 1px solid $base-color;
+                color: #fff;
+            }
+
+            &:hover {
+                background-color: $base-color;
+                border: 1px solid $base-color;
+                color: #fff;
+            }
+
+            @media screen and (max-width: 780px) {
+                display: flex;
+                justify-content: space-between;
+                font-size: 14px;
+                color: #000;
+                padding: 10px 8px;
+                text-align: left;
+                width: 100%;
+                border: none;
+
+                &::after {
+                    content: '';
+                    display: block;
+                    width: 15px;
+                    height: 15px;
+                    background-image: url('https://www.technodom.kz/under/banners/arrow.svg');
+                    background-position: center;
+                    background-repeat: no-repeat;
+                }
+
+                &--active {
+                    border: none;
+                    color: #fff;
+
+                    &::after {
+                        content: '';
+                        display: block;
+                        width: 15px;
+                        height: 15px;
+                        background-image: url('https://www.technodom.kz/under/banners/close_white.svg');
+                        background-position: center;
+                        background-repeat: no-repeat;
+                    }
+                }
+            }
+        }
+
+        &-burger-btn {
+            display: none;
+            align-items: center;
+            gap: 10px;
+            max-width: 120px;
+            color: $base-color;
+            background-color: #fff;
+            padding: 10px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
         }
     }
 }
