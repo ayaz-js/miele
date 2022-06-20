@@ -4,9 +4,9 @@ import {
     burgerMenuBtn
 } from "./constants";
 
-function showMenu() {
+function showCategories() {
     categoriesContainerOvelay.classList.remove('products__categories-overlay--hidden')
     categoriesTabsContainer.classList.remove('products__categories--hidden');
 }
 
-burgerMenuBtn.addEventListener('click', showMenu)
+burgerMenuBtn.addEventListener('click', showCategories)
