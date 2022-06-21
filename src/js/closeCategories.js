@@ -4,7 +4,7 @@ import {
     burgerMenuCloseBtn
 } from "./constants";
 
-function closeCategories() {
+export default function closeCategories() {
     categoriesTabsContainer.classList.add('products__categories--hidden');
     categoriesContainerOvelay.classList.add('products__categories-overlay--hidden');
 }

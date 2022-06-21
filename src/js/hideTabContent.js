@@ -1,9 +1,6 @@
-export default function hideTabContent(tabContent, tabs) {
-    tabContent.forEach(item => {
-        item.style.display = 'none';
-    });
+export default function hideTabContent(tabContent, tabs, tabsActiveClass) {
 
-    tabs.forEach(item => {
-        item.classList.remove('features__tab-item--active');
-    });
+    tabContent.forEach(item => item.style.display = 'none');
+
+    tabs.forEach(item => item.classList.remove(tabsActiveClass));
 }
