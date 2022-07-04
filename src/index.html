@@ -10,9 +10,13 @@
  </head>
 
  <body>
-     <main class="miele-page">
+     <div class="miele-page">
+
+         <!-- Header -->
          <section class="header">
              <div class="header__wrapper">
+
+                 <!-- Slider -->
                  <div class="swiper header__swiper">
                      <div class="swiper-wrapper">
                          <div class="swiper-slide">
@@ -82,14 +86,19 @@
                      </div>
                      <div class="swiper-pagination"></div>
                  </div>
+
                  <img class="header__logo" src="https://www.technodom.kz/under/miele/miele-logo.svg"
                      alt="Логотип Miele">
              </div>
          </section>
+
+         <!-- Description -->
          <section class="description">
              <div class="features">
 
                  <h2 class="features__title">Ключевые особенности техники Miele</h2>
+
+                 <!-- Features list -->
                  <ul class="features__tabs-list">
                      <li class="features__tab-item">Стиральные машины</li>
                      <li class="features__tab-item">Сушильные машины</li>
@@ -359,26 +368,37 @@
 
              </div>
          </section>
+
+         <!-- Products -->
          <section class="products">
              <div class="products__categories-overlay products__categories-overlay--hidden"></div>
+
+             <!-- Categories -->
              <div class="products__categories products__categories--hidden">
                  <div class="products__categories-header">
                      <p class="products__categories-heading">Категории</p>
                      <button class="products__categories-close-btn"></button>
                  </div>
-                 <div class="products__categories-tabs">
-                     <button class="products__categories-tab">Стиральные машины</button>
-                     <button class="products__categories-tab">Сушильные машины</button>
-                     <button class="products__categories-tab">Посудомоечные машины</button>
-                     <button class="products__categories-tab">Холодильники и морозильники</button>
-                     <button class="products__categories-tab">Духовые шкафы</button>
-                     <button class="products__categories-tab">Пароварки</button>
-                     <button class="products__categories-tab">Вытяжки</button>
-                     <button class="products__categories-tab">Панели конфорок</button>
-                     <button class="products__categories-tab">Микроволновые печи</button>
-                     <button class="products__categories-tab">Монтажные комплекты</button>
-                 </div>
+
+                 <!-- Categories Tab -->
+                 <ul class="products__categories-tabs">
+                     <li class="products__categories-tab" data-categories="Стиральные машины">Стиральные машины</li>
+                     <li class="products__categories-tab" data-categories="Сушильные машины">Сушильные машины</li>
+                     <li class="products__categories-tab" data-categories="Посудомоечные машины">Посудомоечные машины
+                     </li>
+                     <li class="products__categories-tab" data-categories="Холодильники и морозильники">Холодильники и
+                         морозильники</li>
+                     <li class="products__categories-tab" data-categories="Духовые шкафы">Духовые шкафы</li>
+                     <li class="products__categories-tab" data-categories="Пароварки">Пароварки</li>
+                     <li class="products__categories-tab" data-categories="Вытяжки">Вытяжки</li>
+                     <li class="products__categories-tab" data-categories="Панели конфорок">Панели конфорок</li>
+                     <li class="products__categories-tab" data-categories="Микроволновые печи">Микроволновые печи</li>
+                     <li class="products__categories-tab" data-categories="Монтажные комплекты">Монтажные комплекты</li>
+                 </ul>
+
              </div>
+
+             <!-- Burger menu -->
              <button class="products__categories-burger-btn" title="Категории товаров">
                  <svg class="products__categories-burger-icon" width="16" height="12" viewBox="0 0 16 12" fill="none"
                      xmlns="http://www.w3.org/2000/svg">
@@ -387,19 +407,15 @@
                          fill="#FF681D"></path>
                  </svg>Категории
              </button>
+
+             <!-- Products cards -->
              <div class="products__cards">
-                 <div class="products__cards-type">
-                     <article class="product__card">123</article>
-                 </div>
-                 <div class="products__cards-type">
-                     <article class="product__card">asd</article>
-                 </div>
-                 <div class="products__cards-type">
-                     <article class="product__card">fdsds</article>
-                 </div>
+                 <!-- Render from JS -->
              </div>
+
          </section>
-     </main>
+
+     </div>
  </body>
 
  </html>

@@ -15,7 +15,7 @@ export const burgerMenuCloseBtn = document.querySelector('.products__categories-
 export const burgerMenuBtn = document.querySelector('.products__categories-burger-btn')
 
 // Products 
-export const productsContainer = document.querySelectorAll('.products__cards-type')
+export const productsContainer = document.querySelector('.products__cards')
 
 // Class name 
 export const featuresTabsActive = 'features__tab-item--active'

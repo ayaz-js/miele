@@ -73,6 +73,9 @@
             flex-wrap: wrap;
             max-height: 410px;
             gap: 16px;
+            margin: 0;
+            padding: 0;
+            list-style: none;
         }
 
         &-tab {
@@ -153,6 +156,13 @@
                 display: flex;
             }
         }
+    }
+
+    &__cards {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+        margin-top: 42px;
     }
 
     @media screen and (max-width: 780px) {
