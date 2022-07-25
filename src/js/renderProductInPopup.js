@@ -5,6 +5,7 @@ import createItemThumb from "./createItemThumb";
 
 
 import { dataProducts } from "./meile-original.js"
+import calculatePrice from "./utils";
 
 export default function renderProductInPopup(id) {
       productPopupArray.push(id)
@@ -15,4 +16,6 @@ export default function renderProductInPopup(id) {
       filtered.forEach(good => {
         document.querySelector('.popup__thumbs').append(createItemThumb(good))
       })
+
+      calculatePrice(filtered)
 }
