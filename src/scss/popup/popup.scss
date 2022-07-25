@@ -1,6 +1,6 @@
 .miele-page .popup {
     position: fixed;
-    align-items: flex-start;
+    align-items: center;
     font-family: "Museo Regular";
     width: 100vw;
     height: 100%;
@@ -8,7 +8,7 @@
     left: 0;
     z-index: 120;
     display: none;
-    background-color: rgba(0,0,0, 0.4);
+    background-color: rgba(0, 0, 0, 0.4);
     overflow: auto;
 
     @media screen and (max-width: 768px) {
@@ -48,11 +48,32 @@
         background: #fff;
         z-index: 12;
         padding: 42px;
+        width: 700px;
         border-radius: 16px;
         margin: 0 auto;
 
         @media screen and (max-width: 768px) {
             width: 70%;
+        }
+    }
+
+    &__thumbs {
+        height: 320px;
+        overflow-y: scroll;
+        padding: 0 8px;
+
+        &::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        &::-webkit-scrollbar-track {
+            background-color: #f7f7f7;
+            border-radius: 8px;
+        }
+
+        &::-webkit-scrollbar-thumb {
+            border-radius: 8px;
+            background-color: #FC6B3F;
         }
     }
 
@@ -92,7 +113,7 @@
         width: 100%;
 
         @media screen and (max-width: 768px) {
-            font-size: 16px;    
+            font-size: 16px;
         }
     }
 
@@ -101,10 +122,10 @@
         font-weight: 400;
         line-height: 24px;
         margin: 4px 0 0;
-        max-width: 490px;
+        max-width: 300px;
         width: 100%;
 
-        
+
         @media screen and (max-width: 768px) {
             font-size: 14px;
             max-width: 136px;
@@ -113,6 +134,8 @@
 
     &__product-img {
         max-width: 100px;
+        height: 100px;
+        object-fit: cover;
 
         @media screen and (max-width: 768px) {
             max-width: 95px;
@@ -220,7 +243,7 @@
         padding: 16px;
         border-radius: 8px !important;
         width: 100%;
-        cursor: pointer; 
+        cursor: pointer;
     }
 
     &__submit {

@@ -30,13 +30,11 @@ function closeOnEsc(event) {
 
 function addEventListeners() {
     closePopupButton.addEventListener('click', closePopup)
-    // popupOverlay.addEventListener('click', closePopup)
     document.addEventListener('keyup', closeOnEsc);
 }
 
 function removeEventListeners() {
     closePopupButton.removeEventListener('click', closePopup)
-    // popupOverlay.removeEventListener('click', closePopup)
     document.removeEventListener('keyup', closeOnEsc);
 }
 
