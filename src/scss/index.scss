@@ -7,6 +7,7 @@
 @import './features/features.scss';
 @import './products/products.scss';
 @import './product-card/product-card.scss';
+@import './popup/popup.scss';
 
 body {
     margin: 0;
@@ -20,7 +21,7 @@ button+button {
 }
 
 .cms-page li:last-child {
-    margin: 0 !important;
+    margin-bottom: 9.6px !important;
 }
 
 .miele-page * {

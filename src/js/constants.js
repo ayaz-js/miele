@@ -13,12 +13,22 @@ export const categoriesTabsContainer = document.querySelector('.products__catego
 export const categoriesTabsItem = document.querySelectorAll('.products__categories-tab')
 export const burgerMenuCloseBtn = document.querySelector('.products__categories-close-btn')
 export const burgerMenuBtn = document.querySelector('.products__categories-burger-btn')
+// export let selectedTab;
 
 // Products 
 export const productsContainer = document.querySelector('.products__cards')
+export const productsTabs = document.querySelectorAll('.products__categories-tab')
 
 // Class name 
 export const featuresTabsActive = 'features__tab-item--active'
 export const featuresTabClass = 'features__tab-item'
 export const categoriesTabClass = 'products__categories-tab'
 export const categoriesTabActive = 'products__categories-tab--active'
+
+// Popup
+export const closePopupButton = document.querySelector('.popup__close');
+export const popupOverlay = document.querySelector('.popup__overlay');
+export const popup = document.querySelector('.popup');
+export const popupContent = document.querySelector('.popup__content');
+
+export const productPopupArray = []

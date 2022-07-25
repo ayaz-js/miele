@@ -2,6 +2,10 @@
     position: relative;
     padding: 56px 0 42px;
 
+    @media screen and (max-width: 780px) {
+        padding: 0 12px;
+    }
+
     &__categories {
         display: flex;
         flex-wrap: wrap;
@@ -89,6 +93,10 @@
             transition: background-color 0.2s ease-in-out;
             cursor: pointer;
 
+            &::before {
+                content: '';
+            }
+
             &--active {
                 background-color: $base-color;
                 border: 1px solid $base-color;
@@ -163,9 +171,9 @@
         flex-wrap: wrap;
         gap: 16px;
         margin-top: 42px;
-    }
 
-    @media screen and (max-width: 780px) {
-        padding: 0 12px;
+        @media screen and (max-width: 425px) {
+            justify-content: center;
+        }
     }
 }

@@ -1,38 +1,34 @@
-// import clickTabs from "./clickTabs";
-// import hideTabContent from "./hideTabContent";
-// import showTabContent from "./showTabContent";
-
-// import {
-//     categoriesTabsContainer,
-//     categoriesTabsItem,
-//     categoriesTabClass,
-//     categoriesTabActive,
-//     productsContainer
-// } from "./constants";
-
-// clickTabs(categoriesTabsContainer, categoriesTabsItem, categoriesTabClass, productsContainer, categoriesTabActive)
-// hideTabContent(productsContainer, categoriesTabsItem, categoriesTabActive)
-// showTabContent(0, productsContainer, categoriesTabsItem, categoriesTabActive)
-
-import {
-    data
-} from './miele.js'
-
 import {
     categoriesTabsContainer,
-    productsContainer
+    productsContainer,
 } from './constants.js'
-
+import { dataProducts } from './meile-original.js';
 import renderProducts from './renderProducts.js'
+import closeCategories from './closeCategories.js';
 
-// console.log(data[0].t)
-// data.filter(data => console.log(data.t))
+let selectedTab = document.querySelector('.products__categories-tab');
+selectedTab.classList.add('products__categories-tab--active');
+
+function highlight(tab) {
+    if (selectedTab) {
+        selectedTab.classList.remove('products__categories-tab--active');
+    }
+
+    selectedTab = tab;
+    selectedTab.classList.add('products__categories-tab--active');
+}
+
+filterProducts('Стиральные машины')
 
 categoriesTabsContainer.addEventListener('click', (event) => {
-    const {
-        target
-    } = event
-    const filtered = data.filter(data => data.t === target.dataset.categories)
-    console.log(filtered)
-    renderProducts(filtered, productsContainer)
+    const { target } = event;
+    if (target.tagName !== "LI") return    
+    highlight(target)
+    filterProducts(target.dataset.categories)
 })
+
+function filterProducts(dataAttr) {
+    const filtered = dataProducts.filter(data => data.t === dataAttr)
+    renderProducts(filtered, productsContainer)
+    closeCategories();
+}

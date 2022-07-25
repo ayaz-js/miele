@@ -28,7 +28,7 @@ export const data = [{
     "s": 0
 }, {
     "id": "11127",
-    "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ffa\/ffaddea6632a5c06770a979967f787ba.jpeg",
+    "i": "https://www.miele.kz/pmedia/30/Z17/20000126138-000-00_20000126138.jpg",
     "n": "Вытяжка DA2558",
     "p": "565000.00",
     "t": "Вытяжки",
