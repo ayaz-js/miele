@@ -97,6 +97,10 @@
                 content: '';
             }
 
+            &:last-child {
+                margin-bottom: 9.6px !important;
+            }
+
             &--active {
                 background-color: $base-color;
                 border: 1px solid $base-color;
@@ -147,6 +151,7 @@
         }
 
         &-burger-btn {
+            font-family: "Museo Bold";
             display: none;
             align-items: center;
             gap: 10px;

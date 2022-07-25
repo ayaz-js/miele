@@ -10,7 +10,7 @@ import {
 import renderProductInPopup from './renderProductInPopup';
 
 function openPopup(id) {
-    popup.style.display = 'block';
+    popup.style.display = 'flex';
     document.body.style.overflow = 'hidden';
     renderProductInPopup(id)
     addEventListeners()
@@ -30,13 +30,13 @@ function closeOnEsc(event) {
 
 function addEventListeners() {
     closePopupButton.addEventListener('click', closePopup)
-    popupOverlay.addEventListener('click', closePopup)
+    // popupOverlay.addEventListener('click', closePopup)
     document.addEventListener('keyup', closeOnEsc);
 }
 
 function removeEventListeners() {
     closePopupButton.removeEventListener('click', closePopup)
-    popupOverlay.removeEventListener('click', closePopup)
+    // popupOverlay.removeEventListener('click', closePopup)
     document.removeEventListener('keyup', closeOnEsc);
 }
 

@@ -46,6 +46,10 @@
             content: ''
         }
 
+        &:last-child {
+            margin-bottom: 0.6px !important;
+        }
+
         &--active {
             color: #212427;
 
@@ -116,7 +120,7 @@
 
         &__tab-content-img,
         &__tab-content-text {
-            max-width: 410px;
+            max-width: 394px;
             margin-top: 50px;
         }
 
