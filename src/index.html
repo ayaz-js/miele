@@ -418,27 +418,47 @@
          <!-- Popup -->
          <div class="popup">
              <div class="popup__content">
-                 <div class="popup__header">
-                     <h2 class="popup__title">Оформление заказа</h2>
-                     <span class="popup__close">x</span>
-                 </div>
-                 <form class="popup__form">
-                     <div class="popup__thumbs"></div>
-                     <input type="text" placeholder="Имя и Фамилия" class="popup__name" required>
-                     <input type="tel" placeholder="Номер телефона" class="popup__number" required>
-                     <input type="email" data-email="email" placeholder="Эл.почта" class="popup__email" required>
-                     <label class="popup__label">
-                         <input type="checkbox" class="popup__checkbox">
-                         Даю согласие на обработку персональных данных
-                     </label>
-                     <div class="popup__total">
-                         <p class="popup__total-text">Итого к оплате</p>
-                         <p class="popup__total-price">5 890 000 ₸</p>
-                     </div>
-                     <button type="submit" class="popup__submit">Отправить заявку</button>
-                     <button type="button" class="popup__button">Посмотреть ещё товары</button>
-                 </form>
+                <div class="popup__wrapper">
+                    <div class="popup__header">
+                        <h2 class="popup__title">Оформление заказа</h2>
+                        <span class="popup__close">x</span>
+                    </div>
+                    <form class="popup__form">
+                        <div class="popup__thumbs"></div>
+                        <input type="text" placeholder="Имя и Фамилия" class="popup__name" required>
+                        <input type="tel" placeholder="Номер телефона" class="popup__number" required>
+                        <input type="email" data-email="email" placeholder="Эл.почта" class="popup__email" required>
+                        <label class="popup__label">
+                            <input type="checkbox" class="popup__checkbox">
+                            Даю согласие на обработку персональных данных
+                        </label>
+                        <div class="popup__total">
+                            <p class="popup__total-text">Итого к оплате</p>
+                            <p class="popup__total-price">0 ₸</p>
+                        </div>
+                        <button type="submit" class="popup__submit">Отправить заявку</button>
+                        <button type="button" class="popup__button">Посмотреть ещё товары</button>
+                    </form>
+                </div>
+                <div class="popup__success">
+                    <div class="popup__header">
+                        <span class="popup__close">x</span>
+                    </div>
+                    <div class="popup__success-wrapper">
+                        <img src="https://www.technodom.kz/under/miele/success.svg" alt="" class="popup__success-icon">
+                        <h3 class="popup__order-title">Заказа принят!</h2>
+                        <p class="popup__order-text">В ближайшее время мы с вами свяжемся для уточнения всех деталей.</p>
+                    </div>
+                </div>
              </div>
+         </div>
+
+         <!-- Cart -->
+         <div class="cart">
+            <button class="cart__button">
+                <img src="https://www.technodom.kz/under/miele/cart.svg" alt="" class="cart__icon">
+                <p class="cart__caption">Посмотреть карзину</p>
+            </button>
          </div>
      </div>
  </body>

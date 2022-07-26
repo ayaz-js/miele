@@ -13,7 +13,6 @@ export const categoriesTabsContainer = document.querySelector('.products__catego
 export const categoriesTabsItem = document.querySelectorAll('.products__categories-tab')
 export const burgerMenuCloseBtn = document.querySelector('.products__categories-close-btn')
 export const burgerMenuBtn = document.querySelector('.products__categories-burger-btn')
-// export let selectedTab;
 
 // Products 
 export const productsContainer = document.querySelector('.products__cards')
@@ -27,8 +26,10 @@ export const categoriesTabActive = 'products__categories-tab--active'
 
 // Popup
 export const closePopupButton = document.querySelector('.popup__close');
-export const popupOverlay = document.querySelector('.popup__overlay');
 export const popup = document.querySelector('.popup');
 export const popupContent = document.querySelector('.popup__content');
+export const popupButton = document.querySelector('.popup__button');
+export const successPopup = document.querySelector('.popup__success')
 
-export const productPopupArray = []
+// Cart
+export const cartButton = document.querySelector('.cart__button')

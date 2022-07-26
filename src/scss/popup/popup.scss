@@ -41,6 +41,7 @@
         font-size: 20px;
         font-weight: bold;
         text-align: right;
+        width: 100%;
         cursor: pointer;
     }
 
@@ -135,7 +136,7 @@
     &__product-img {
         max-width: 100px;
         height: 100px;
-        object-fit: cover;
+        object-fit: contain;
 
         @media screen and (max-width: 768px) {
             max-width: 95px;
@@ -263,5 +264,34 @@
         font-size: 14px;
         background-color: transparent;
         border: 1px solid $base-color;
+    }
+
+    &__success {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    &__success-wrapper {
+        text-align: center;
+    }
+
+    &__order-title {
+        margin: 24px 0 0;
+    }
+
+    &__order-text {
+        font-size: 20px;
+        line-height: 32px;
+        margin: 24px 0 0;
+        max-width: 400px;
+        width: 100%;
+        color: #8E979F;
+    }
+
+    &__success-icon {
+        max-width: 100px;
+        width: 100%;
     }
 }

@@ -8,6 +8,7 @@
 @import './products/products.scss';
 @import './product-card/product-card.scss';
 @import './popup/popup.scss';
+@import './cart/cart.scss';
 
 body {
     margin: 0;
@@ -25,7 +26,8 @@ button+button {
 }
 
 .miele-page {
-    font-family: Museo Regular;
-    max-width: 1320px;
+    position: relative;
+    font-family: "Museo Regular";
+    max-width: 1232px;
     margin: 0 auto;
 }
