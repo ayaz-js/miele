@@ -8,11 +8,17 @@
     left: 0;
     z-index: 120;
     display: none;
-    background-color: rgba(0, 0, 0, 0.4);
     overflow: auto;
 
     @media screen and (max-width: 768px) {
         padding: 16px 0;
+    }
+
+    &__overlay {
+        position: absolute;
+        width: 100vw;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.4);
     }
 
 
@@ -152,13 +158,19 @@
         &-minus {
             background-color: transparent;
             border: none;
+            cursor: pointer;
         }
+    }
+
+    &__count-number {
+        margin: 12px 0;
     }
 
     &__title {
         margin: 0;
         font-size: 20px !important;
         font-weight: 600 !important;
+        width: 100%;
     }
 
     &__form {

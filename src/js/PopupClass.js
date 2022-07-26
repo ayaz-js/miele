@@ -2,7 +2,8 @@ import {
   closePopupButton,
   popup,
   cartButton,
-  popupButton
+  popupButton,
+  popupOverlay
 } from './constants';
 
 import createItemThumb from './createItemThumb';
@@ -51,6 +52,7 @@ class PopupClass {
   _addEventListeners() {
     popupButton.addEventListener('click', this._closePopup)
     closePopupButton.addEventListener('click', this._closePopup)
+    popupOverlay.addEventListener('click', this._closePopup)
     document.addEventListener('keyup', this._closeOnEsc);
 
     document.querySelectorAll('.popup__count-plus').forEach(item => {
@@ -65,6 +67,7 @@ class PopupClass {
   _removeEventListeners() {
     popupButton.removeEventListener('click', this._closePopup)
     closePopupButton.removeEventListener('click', this._closePopup)
+    popupOverlay.removeEventListener('click', this._closePopup)
     document.removeEventListener('keyup', this._closeOnEsc);
 
     document.querySelectorAll('.popup__count-plus').forEach(item => {

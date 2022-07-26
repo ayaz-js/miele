@@ -25,11 +25,12 @@ export const categoriesTabClass = 'products__categories-tab'
 export const categoriesTabActive = 'products__categories-tab--active'
 
 // Popup
-export const closePopupButton = document.querySelector('.popup__close');
 export const popup = document.querySelector('.popup');
+export const closePopupButton = document.querySelector('.popup__close');
 export const popupContent = document.querySelector('.popup__content');
 export const popupButton = document.querySelector('.popup__button');
-export const successPopup = document.querySelector('.popup__success')
+export const successPopup = document.querySelector('.popup__success');
+export const popupOverlay = document.querySelector('.popup__overlay');
 
 // Cart
 export const cartButton = document.querySelector('.cart__button')
