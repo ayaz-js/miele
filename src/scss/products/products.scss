@@ -85,9 +85,8 @@
         &-tab {
             font-size: $base-font-size;
             font-weight: 600;
-            color: #8E979F;
-            background-color: transparent;
-            border: 1px solid $disabled-tab-color;
+            color: #606971;
+            background-color: #fff;
             border-radius: 8px;
             padding: 12px 14px;
             transition: background-color 0.2s ease-in-out;
@@ -103,13 +102,11 @@
 
             &--active {
                 background-color: $base-color;
-                border: 1px solid $base-color;
                 color: #fff;
             }
 
             &:hover {
                 background-color: $base-color;
-                border: 1px solid $base-color;
                 color: #fff;
             }
 

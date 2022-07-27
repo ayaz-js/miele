@@ -1,9 +1,13 @@
 import {
   closePopupButton,
   popup,
-  cartButton,
   popupButton,
-  popupOverlay
+  popupOverlay,
+  inputName,
+  inputPhone,
+  inputEmail,
+  successPopup,
+  popupWrapper
 } from './constants';
 
 import createItemThumb from './createItemThumb';
@@ -32,6 +36,7 @@ class PopupClass {
   }
 
   openCart() {
+    popupWrapper.classList.remove('popup__wrapper--hide')
     this._renderProductsInPopup()
     this._calculatePrice()
     this._addEventListeners()
@@ -40,6 +45,7 @@ class PopupClass {
   _closePopup() {
     popup.style.display = 'none';
     document.body.style.overflow = 'auto';
+    successPopup.classList.remove('popup__success--show')
     this._removeEventListeners();
   }
 
@@ -51,7 +57,9 @@ class PopupClass {
 
   _addEventListeners() {
     popupButton.addEventListener('click', this._closePopup)
-    closePopupButton.addEventListener('click', this._closePopup)
+    closePopupButton.forEach(item => {
+      item.addEventListener('click', this._closePopup)
+    })
     popupOverlay.addEventListener('click', this._closePopup)
     document.addEventListener('keyup', this._closeOnEsc);
 
@@ -66,7 +74,9 @@ class PopupClass {
 
   _removeEventListeners() {
     popupButton.removeEventListener('click', this._closePopup)
-    closePopupButton.removeEventListener('click', this._closePopup)
+    closePopupButton.forEach(item => {
+      item.removeEventListener('click', this._closePopup)
+    })
     popupOverlay.removeEventListener('click', this._closePopup)
     document.removeEventListener('keyup', this._closeOnEsc);
 
@@ -131,15 +141,36 @@ class PopupClass {
   }
 
   _calculatePrice() {
-    let price = 0
+    this.price = 0
 
     this.chosenProducts.forEach(item => {
       const productPrice = parseInt(item.p, 10)
       const count = item.count
-      price += (productPrice * count)
+      this.price += (productPrice * count)
     })
 
-    document.querySelector('.popup__total-price').textContent = price.toLocaleString() + ' ₸'
+    document.querySelector('.popup__total-price').textContent = this.price.toLocaleString() + ' ₸'
+  }
+
+  sendFormData() {
+    const formData = new FormData()
+    formData.append('ФИО', inputName.value)
+    formData.append('Номер телефона', inputPhone.value)
+    formData.append('Email', inputEmail.value)
+    formData.append('Итоговая цена', this.price.toLocaleString() + ' ₸')
+    const products = Array.from(this.chosenProducts).map(product => `${product.n} - ${product.count}шт.`)
+    formData.append('Заказ', products.join(', '))
+    fetch('https://script.google.com/macros/s/AKfycbxWgINvZ0ZEsxu29LZOAZKdpb8pYNfjvxPYlWegOeGnxMFRrC2gzJP3YaW_Ab_7vFaTMQ/exec', {
+    method: 'POST',
+    body: formData,
+    })
+    popupWrapper.classList.add('popup__wrapper--hide')
+    successPopup.classList.add('popup__success--show')
+    inputName.value = ''
+    inputPhone.value = ''
+    inputEmail.value = ''
+    this.chosenProducts = null
+    this.chosenProducts = new Set()
   }
 
   init() {

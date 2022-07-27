@@ -96,18 +96,17 @@
         font-weight: 600;
         max-width: 200px;
         width: 100%;
-        background-color: transparent;
-        border: 1px solid $base-color;
+        background-color: #f4f4f4;
+        border-color: transparent;
         border-radius: 8px;
         padding: 10px 0;
         margin: 8px 0 0;
-        color: $base-color;
+        color: #000;
         transition: background-color 0.2s ease-in-out;
         cursor: pointer;
 
         &:hover {
             background-color: $base-color;
-            border: 1px solid $base-color;
             color: #fff;
         }
 

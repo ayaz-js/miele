@@ -29,6 +29,7 @@
     "webpack-dev-server": "^4.6.0"
   },
   "dependencies": {
+    "cleave.js": "^1.6.0",
     "gh-pages": "^3.2.3",
     "swiper": "^8.2.4"
   }

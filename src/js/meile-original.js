@@ -1,174 +1,174 @@
 export const dataProducts = [{
   "id": "11077",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/1e4\/1e489099ed019723df6c17afcf4285e9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11077.png",
   "n": "Вытяжка DA 420-6",
   "p": "1200000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11100",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a4a\/a4a04dd734e114feac881b97977580c3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11100.png",
   "n": "Вытяжка DA 6096 W",
   "p": "640000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "11123",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/502\/5028af08d5635f42710b31e4265b1ead.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11123.png",
   "n": "Вытяжка DA1260",
   "p": "265000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "11125",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/db8\/db8032c2d246fd1939061c167ae2ea99.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11125.png",
   "n": "Вытяжка DA2518",
   "p": "1190000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11127",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ceb\/ceb78d6e3ebca8297f855c4dc060c797.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11127.png",
   "n": "Вытяжка DA2558",
   "p": "565000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "11129",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c47\/c47dcbc457b4c9e25b7856ef57038521.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11129.png",
   "n": "Вытяжка DA2578",
   "p": "600000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "11130",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/fbe\/fbe463f966fa402f57481b87d6e68585.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11130.png",
   "n": "Вытяжка DA2698",
   "p": "1160000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11133",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a0a\/a0a6bfb80a76c99c8fa5cb9b1a809819.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11133.png",
   "n": "Вытяжка DA3496",
   "p": "454000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "11135",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ab1\/ab1ae85c97d25302120b783941f5cef9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11135.png",
   "n": "Вытяжка DA3698",
   "p": "1181000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "11136",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ca5\/ca526ba69b96ed6f9f3de6bea51cf3d3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11136.png",
   "n": "Вытяжка DA4208 V D",
   "p": "2635000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11137",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/92d\/92df413fc7184064e28398f8d4eec6ab.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11137.png",
   "n": "Вытяжка DA4208D",
   "p": "1890000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11138",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3a7\/3a79a989148018191178294fc16577ee.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11138.png",
   "n": "Вытяжка DA4298W",
   "p": "1220000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "11139",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/4d5\/4d58f620a755704192e2c659aa240843.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11139.png",
   "n": "Вытяжка DA6498W OBSW",
   "p": "1100000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11140",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/bf8\/bf885a6aa2e7dd048ef92a45e00ab504.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11140.png",
   "n": "Вытяжка DA6698D BRWS",
   "p": "2335000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11141",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a9e\/a9e411853ce9cb27c93a0073b2f0da43.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11141.png",
   "n": "Вытяжка DA6698D CLST",
   "p": "2335000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11143",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/062\/062a3fc575cfda716bb6a187df8e51fc.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11143.png",
   "n": "Вытяжка DA6698D OBSW",
   "p": "2335000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11144",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/875\/87593fe6ec570326291eb48f52b654e3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11144.png",
   "n": "Вытяжка DA6698W BRWS",
   "p": "1550000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11145",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/21d\/21dff3e455f415e71bfbc99270268160.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11145.png",
   "n": "Вытяжка DA6698W CLST",
   "p": "1550000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11147",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e0c\/e0c6c9760b44cbde2f88824a22c99107.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11147.png",
   "n": "Вытяжка DA6698W OBSW",
   "p": "1550000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11148",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9d2\/9d28228d9212d2350c930b6b2df407c6.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11148.png",
   "n": "Вытяжка DA6708D OBSW",
   "p": "2335000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11153",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/31c\/31c60ad6845cde41fff1e8884f9e4d66.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11153.png",
   "n": "Вытяжка DA7198W GRGR",
   "p": "1220000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "11154",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ae8\/ae81ccccdc516034a02b10a9f3d6c276.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11154.png",
   "n": "Вытяжка DA7198W OBSW",
   "p": "1220000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11155",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f1d\/f1d0918745e7bd95baa2273aaf6be30a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11155.png",
   "n": "Вытяжка PUR68W EDST",
   "p": "520000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "11156",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/aba\/aba3b76a54ad678b846be6d8106cb1ac.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11156.png",
   "n": "Вытяжка PUR98D",
   "p": "1300000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "11157",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d6c\/d6c9469bf75e22f70b56e09b8d1cd05a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11157.png",
   "n": "Вытяжка PUR98W EDST",
   "p": "565000.00",
   "t": "Вытяжки",
@@ -203,56 +203,56 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "11274",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f1e\/f1e8c0e89e2cd47f685db45409739e04.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11274.png",
   "n": "Варочная панель KM6520 FL",
   "p": "365000.00",
   "t": "Панели конфорок",
   "s": 1
 }, {
   "id": "11275",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/8ea\/8ead4ac41706a27a6fe7171e7c7600f4.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11275.png",
   "n": "Варочная панель KM6520 FR",
   "p": "365000.00",
   "t": "Панели конфорок",
   "s": 1
 }, {
   "id": "11276",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/687\/687822251885d3d2ef8006b079ab2f97.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11276.png",
   "n": "Варочная панель KM6522 FR",
   "p": "675000.00",
   "t": "Панели конфорок",
   "s": 1
 }, {
   "id": "11277",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5b3\/5b30202f175e54c7c2121bed7c947ca9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11277.png",
   "n": "Варочная панель KM6540 FR",
   "p": "635000.00",
   "t": "Панели конфорок",
   "s": 1
 }, {
   "id": "11278",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/4ff\/4ff6b60e213e98ee0a54f0184384e191.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11278.png",
   "n": "Варочная панель KM6542 FL",
   "p": "810000.00",
   "t": "Панели конфорок",
   "s": 1
 }, {
   "id": "11279",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e79\/e790e7ab056aa50736c792e3aa6aed48.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11279.png",
   "n": "Варочная панель KM6542 FR",
   "p": "810000.00",
   "t": "Панели конфорок",
   "s": 1
 }, {
   "id": "11280",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/113\/11315ec2ea378c2e55aeb45689002baf.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11280.png",
   "n": "Варочная панель KM6564 FL",
   "p": "1040000.00",
   "t": "Панели конфорок",
   "s": 0
 }, {
   "id": "11281",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/472\/4722395d762329a3e2eb5cdfd42c84aa.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11281.png",
   "n": "Варочная панель KM6565 FR",
   "p": "1340000.00",
   "t": "Панели конфорок",
@@ -266,28 +266,28 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "11292",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b90\/b90eae4945c916ef63a973bd7b2bb9d3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11292.png",
   "n": "Винный холодильник KWT6834SGS",
   "p": "3900000.00",
   "t": "Холодильники и морозильники",
   "s": 1
 }, {
   "id": "11311",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3e9\/3e90709c86d4ce7e493a6744354bdf46.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11311.png",
   "n": "Газовая панель конфорок KM 2010",
   "p": "435000.00",
   "t": "Панели конфорок",
   "s": 1
 }, {
   "id": "11312",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ae6\/ae6e17bf68295949fbb9e4ea1ce8fdb5.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11312.png",
   "n": "Газовая панель конфорок KM 2034",
   "p": "805000.00",
   "t": "Панели конфорок",
   "s": 1
 }, {
   "id": "11314",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/254\/25484d72f9ecd283b1a102af3b7b1368.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11314.png",
   "n": "Газовая панель конфорок KM 3010",
   "p": "715000.00",
   "t": "Панели конфорок",
@@ -448,7 +448,7 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "11564",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/73b\/73bdc1f9b464ed3e70750eb3c003ce85.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11564.png",
   "n": "Микроволновая печь M 6012 SC CLST сталь",
   "p": "380000.00",
   "t": "Микроволновые печи",
@@ -504,14 +504,14 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "11600",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/1b8\/1b826cd49595d5dfc3605c1662999d80.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11601.png",
   "n": "Монтажный комплект WTV 501",
   "p": "48000.00",
   "t": "Монтажные комплекты",
   "s": 1
 }, {
   "id": "11601",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d04\/d046801d1639d67c56e41c3188d54df1.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11601.png",
   "n": "Монтажный комплект WTV 502",
   "p": "48000.00",
   "t": "Монтажные комплекты",
@@ -532,7 +532,7 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "11604",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/679\/679ede060d52a470bd4009d941ae22b7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11604.png",
   "n": "Морозильник (соло) FN 28263 WS",
   "p": "829000.00",
   "t": "Холодильники и морозильники",
@@ -609,7 +609,7 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "11681",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/fd3\/fd3711cf9fb23d32cfdacc4a2676eb21.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/11681.png",
   "n": "Пароварка DG 6010",
   "p": "625000.00",
   "t": "Пароварки",
@@ -1029,35 +1029,35 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "12141",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/cc1\/cc1972e138d3fc3025842a4163a68408.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12141.png",
   "n": "Холодильник-морозильник (соло) KFN 28132 D ws",
   "p": "530000.00",
   "t": "Холодильники и морозильники",
   "s": 1
 }, {
   "id": "12146",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/21a\/21a90522890107b60c84a2057ac680e7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12146.png",
   "n": "Холодильник-морозильник (соло) KFN 29233 D WS",
   "p": "939000.00",
   "t": "Холодильники и морозильники",
   "s": 1
 }, {
   "id": "12147",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/073\/0736db8d92da3351e7a4b5b753907398.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12147.png",
   "n": "Холодильник-морозильник (соло) KFN 29283 D BB",
   "p": "1219000.00",
   "t": "Холодильники и морозильники",
   "s": 1
 }, {
   "id": "12149",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ef5\/ef5e66de86a39d0b72b3d56d18964438.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12149.png",
   "n": "Холодильник-морозильник (соло) KFN 29683 D BRWS",
   "p": "1875000.00",
   "t": "Холодильники и морозильники",
   "s": 1
 }, {
   "id": "12150",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b35\/b35457ae95993cb385094c8f31de8e37.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12150.png",
   "n": "Холодильник-морозильник (соло) KFN 29683 D OBSW",
   "p": "1875000.00",
   "t": "Холодильники и морозильники",
@@ -1113,28 +1113,28 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "12191",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5b5\/5b5d00960afbc43a3f2ef9094a754d6c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12191.png",
   "n": "Стиральная машина WCR870WPS Chrome Edition",
   "p": "1328000.00",
   "t": "Стиральные машины",
   "s": 0
 }, {
   "id": "12192",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/0bc\/0bc2ae62af8dc2e9fb3a5548ceae6dd3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12192.png",
   "n": "Стиральная машина WCR890WPS Chrome Edition",
   "p": "1682000.00",
   "t": "Стиральные машины",
   "s": 0
 }, {
   "id": "12193",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7d8\/7d86ab31fe456ff93bf342a6c89612a8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12193.png",
   "n": "Стиральная машина WWR880WPS White Edition",
   "p": "1685000.00",
   "t": "Стиральные машины",
   "s": 0
 }, {
   "id": "12194",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/791\/7912936250435a2939ee3cd1163bf991.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12194.png",
   "n": "Стиральная машина WWV980WPS White Edition",
   "p": "2011000.00",
   "t": "Стиральные машины",
@@ -3387,13 +3387,6 @@ export const dataProducts = [{
   "t": "Аксессуары к бытовой технике - Принадлежности к модульным панелям \"Комби\"",
   "s": 0
 }, {
-  "id": "12567",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f73\/f738d09ccb98cb1b7005f50cf1756c0d.jpeg",
-  "n": "Холодильник-морозильник (соло) KFN 29162 D edt\/cs",
-  "p": "579000.00",
-  "t": "Холодильники и морозильники",
-  "s": 1
-}, {
   "id": "12568",
   "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f59\/f5919085539ff47af06b6589006d693d.jpeg",
   "n": "Пылесос SGFA3 Complete C3 TotalCare морской синий",
@@ -3409,567 +3402,567 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "12570",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/6e4\/6e420ac5f8630e697122180ba754af7d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12570.png",
   "n": "Духовой шкаф H2265-1B ACTIVE",
   "p": "329000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12571",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/4e2\/4e2abe82fac1e199448059e97ae77622.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12571.png",
   "n": "Духовой шкаф H2265-1BP ACTIVE",
   "p": "480000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12572",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/72b\/72b4812aa0d49a3bb849c0f6cdf56614.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12572.png",
   "n": "Духовой шкаф H2860B BRWS бриллиантовый белый",
   "p": "610000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12573",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/aeb\/aeb20af1e1e3f6376491450168d8088c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12573.png",
   "n": "Духовой шкаф H2860B CLST сталь",
   "p": "539000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12574",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c13\/c1334bf38fe6a4bc32b855da314c4ff6.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12574.png",
   "n": "Духовой шкаф H2860B GRGR графитовый серый",
   "p": "610000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12575",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/065\/065dfe6197c91de906f2a7b9a3c4fdcf.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12575.png",
   "n": "Духовой шкаф H2860B OBSW черный обсидиан",
   "p": "610000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12576",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/84d\/84d2f056e0cb19ac440ab324841bb9b5.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12576.png",
   "n": "Духовой шкаф H2860BP BRWS бриллиантовый белый",
   "p": "790000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12577",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/cd8\/cd8c8e4511f65f1d21808615aede72f4.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12577.png",
   "n": "Духовой шкаф H2860BP CLST сталь",
   "p": "735000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12578",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/aa8\/aa8e389fa479f30234242f38437c6cf6.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12578.png",
   "n": "Духовой шкаф H2860BP GRGR графитовый серый",
   "p": "790000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12579",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/26b\/26b084cf064a41aac479b5930d8c4991.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12579.png",
   "n": "Духовой шкаф H2860BP OBSW черный обсидиан",
   "p": "790000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12580",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9ec\/9ec46b5a54caace9c95425d1a9dd099a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12580.png",
   "n": "Духовой шкаф H7260B CLST сталь",
   "p": "705000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12581",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/6f5\/6f5bdf965ce4bcfb9b490cdb060f6e3b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12581.png",
   "n": "Духовой шкаф H7260BP CLST сталь",
   "p": "885000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12582",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f30\/f30814d4a005cbf20cc052c9cbb440a7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12582.png",
   "n": "Духовой шкаф H7264B CLST сталь",
   "p": "955000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12583",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c39\/c39918e41f97264ef3d8449229e138c7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12583.png",
   "n": "Духовой шкаф H7264BP CLST сталь",
   "p": "1110000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12584",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c26\/c260358787031786769a26c19b4ab74b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12584.png",
   "n": "Духовой шкаф H7464BP BRWS бриллиантовый белый",
   "p": "1625000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12585",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/290\/290fd85473aa9a0071d80add6e49b962.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12585.png",
   "n": "Духовой шкаф H7464BP CLST сталь",
   "p": "1555000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12586",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a17\/a1790f5e6ffddb2c7d3888564951afd0.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12586.png",
   "n": "Духовой шкаф H7464BP GRGR графитовый серый",
   "p": "1625000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12587",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/df9\/df98330cbc958688563824958729b652.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12587.png",
   "n": "Духовой шкаф H7464BP OBSW черный обсидиан",
   "p": "1625000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12588",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/bc6\/bc69c0f538a8693ace8a95f58017286a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12588.png",
   "n": "Духовой шкаф H7464BPX BRWS бриллиантовый белый",
   "p": "1625000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12589",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/db0\/db0d9a90dd954f0a10694f654caa3d89.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12589.png",
   "n": "Духовой шкаф H7464BPX GRGR графитовый серый",
   "p": "1625000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12590",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/6d3\/6d3d90ba7b171a182fe8376e4f78f742.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12590.png",
   "n": "Духовой шкаф H7464BPX OBSW черный обсидиан",
   "p": "1625000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12591",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f18\/f181d7c8f98e40db76d59887fe9743cc.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12591.png",
   "n": "Духовой шкаф H7860BP BRWS бриллиантовый белый",
   "p": "2960000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12592",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/2f6\/2f6353de332808f5f2f70ac5f307918b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12592.png",
   "n": "Духовой шкаф H7860BP CLST сталь",
   "p": "2890000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12593",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9e8\/9e84c690ce6176966f9f37ad863e1738.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12593.png",
   "n": "Духовой шкаф H7860BP GRGR графитовый серый",
   "p": "2960000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12594",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/00a\/00aa0728317f9233af48e7770480a55c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12594.png",
   "n": "Духовой шкаф H7860BP OBSW черный обсидиан",
   "p": "2960000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12595",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f00\/f007b2b876cb1883a66f86ed2ef44195.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12595.png",
   "n": "Духовой шкаф H7860BPX BRWS бриллиантовый белый",
   "p": "2960000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12596",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9dc\/9dcbbf9a79570b44f6af1a867559ef9f.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12596.png",
   "n": "Духовой шкаф H7860BPX GRGR графитовый серый",
   "p": "2960000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12597",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/57f\/57f737bc0aaec4f2a6db6d2e14ca0b82.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12597.png",
   "n": "Духовой шкаф H7860BPX OBSW черный обсидиан",
   "p": "2960000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12598",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/aa8\/aa8fff7d3e949970f88a7af6b4f9e778.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12598.png",
   "n": "Духовой шкаф H7890BP CLST сталь",
   "p": "5650000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12599",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/792\/792d52cae0434cbac1193b488f0cd817.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12599.png",
   "n": "Духовой шкаф компактный с СВЧ H7240BM CLST сталь",
   "p": "1029000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12600",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ad8\/ad8d0602c69eb6d1dd3506fd386778af.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12600.png",
   "n": "Духовой шкаф компактный с СВЧ H7440BM BRWS бриллиантовый белый",
   "p": "1455000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12601",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9a2\/9a2a18d8e0fc0a26ab2e1f380c179fb9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12601.png",
   "n": "Духовой шкаф компактный с СВЧ H7440BM CLST сталь",
   "p": "1380000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12602",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/945\/94567e7ce00b3524bef94e24951a5954.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12602.png",
   "n": "Духовой шкаф компактный с СВЧ H7440BM GRGR графитовый серый",
   "p": "1455000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12603",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a6a\/a6ac50a35e2cdd99a03ca5c0482b5700.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12603.png",
   "n": "Духовой шкаф компактный с СВЧ H7440BM OBSW черный обсидиан",
   "p": "1455000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12604",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/847\/8476464a2ba9143d552d56aa5e33158a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12604.png",
   "n": "Духовой шкаф компактный с СВЧ H7440BMX BRWS бриллиантовый белый",
   "p": "1455000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12605",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a46\/a465ed575fde864397ba2b5f58b26f3d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12605.png",
   "n": "Духовой шкаф компактный с СВЧ H7440BMX GRGR графитовый серый",
   "p": "1455000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12606",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/8f8\/8f8d7ba80d70b74360767426b23820c8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12606.png",
   "n": "Духовой шкаф компактный с СВЧ H7440BMX OBSW черный обсидиан",
   "p": "1455000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12607",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/615\/615eb3e17b23844f82fca58d49e05e4d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12607.png",
   "n": "Духовой шкаф компактный с СВЧ H7840BM BRWS бриллиантовый белый",
   "p": "2430000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12608",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/0cd\/0cdb59c2d900da427bbbcabeff2573df.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12608.png",
   "n": "Духовой шкаф компактный с СВЧ H7840BM CLST сталь",
   "p": "2350000.00",
   "t": "Духовые шкафы",
   "s": 1
 }, {
   "id": "12609",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/847\/8476043fcc64a49ba72f01c1b8bf6cd2.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12609.png",
   "n": "Духовой шкаф компактный с СВЧ H7840BM GRGR графитовый серый",
   "p": "2430000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12610",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e64\/e64d9839fcc4e3f6c4fc6eb020c40c8b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12610.png",
   "n": "Духовой шкаф компактный с СВЧ H7840BM OBSW черный обсидиан",
   "p": "2430000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12611",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f13\/f138ed4b082f652761d38a36c6b5793f.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12611.png",
   "n": "Духовой шкаф компактный с СВЧ H7840BMX GRGR графитовый серый",
   "p": "2430000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12612",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d95\/d9533e3b59d06ef00f6178bfabd3818e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12612.png",
   "n": "Духовой шкаф компактный с СВЧ H7840BMX BRWS бриллиантовый белый",
   "p": "2430000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12613",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/781\/781123147a1b6ca032a1b695ab99f027.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12613.png",
   "n": "Духовой шкаф компактный с СВЧ H7840BMX OBSW черный обсидиан",
   "p": "2430000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12614",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/686\/6867de3e621a84c559f9451f0698186c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12614.png",
   "n": "Пароварка DG2840 BRWS бриллиантовый белый",
   "p": "720000.00",
   "t": "Пароварки",
   "s": 1
 }, {
   "id": "12615",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/432\/432166303f4d0309ca5f9266d60ea092.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12615.png",
   "n": "Пароварка DG2840 CLST сталь",
   "p": "635000.00",
   "t": "Пароварки",
   "s": 1
 }, {
   "id": "12616",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/bfa\/bfa852237847c6fb82c917ed0b696a71.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12616.png",
   "n": "Пароварка DG2840 GRGR графитовый серый",
   "p": "720000.00",
   "t": "Пароварки",
   "s": 1
 }, {
   "id": "12617",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/828\/82852670a21c2c843d29f99fead94f27.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12617.png",
   "n": "Пароварка DG2840 OBSW черный обсидиан",
   "p": "720000.00",
   "t": "Пароварки",
   "s": 1
 }, {
   "id": "12618",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/95d\/95dbd4e6f51a609e8d26c827f1f5fec6.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12618.png",
   "n": "Пароварка DG7240 CLST сталь",
   "p": "930000.00",
   "t": "Пароварки",
   "s": 1
 }, {
   "id": "12619",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/81e\/81ed9152fabec4691eff65773abf9177.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12619.png",
   "n": "Пароварка DG7440 BRWS бриллиантовый белый",
   "p": "1380000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12620",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7ed\/7edde4eaa60200533ccb07e89829df08.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12620.png",
   "n": "Пароварка DG7440 CLST сталь",
   "p": "1305000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12621",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b97\/b9736a36ebb4af99e632ccc3a90c57f5.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12621.png",
   "n": "Пароварка DG7440 GRGR графитовый серый",
   "p": "1380000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12622",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/588\/58824b3c37d041479a7ec8f54f2e3858.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12622.png",
   "n": "Комби-пароварка DGC7440 BRWS бриллиантовый белый",
   "p": "2130000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12623",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/6e2\/6e279da051e4060139e4a5639911f541.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12623.png",
   "n": "Комби-пароварка DGC7440 CLST сталь",
   "p": "2040000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12624",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/904\/9044546360f2e794016209d96b3f7029.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12624.png",
   "n": "Комби-пароварка DGC7440 GRGR графитовый серый",
   "p": "2130000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12625",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/15c\/15c5fa3dc3646f3677a8aa83e4c925f1.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12625.png",
   "n": "Комби-пароварка DGC7440 OBSW черный обсидиан",
   "p": "2130000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12626",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ba5\/ba5191bbbd31ae6176ba249c3c2d0308.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12626.png",
   "n": "Комби-пароварка DGC7440X GRGR графитовый серый",
   "p": "2130000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12627",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/fe1\/fe1fb1650a454f433febafd0bfff199a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12627.png",
   "n": "Пароварка DG7440 OBSW черный обсидиан",
   "p": "1380000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12628",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/97a\/97aa35d6a52bbf55df9c8ee226a326c7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12628.png",
   "n": "Комби-пароварка DGC7440X BRWS бриллиантовый белый",
   "p": "2130000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12629",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/993\/9931614341e7b818b0c39cc9beb8b5ab.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12629.png",
   "n": "Комби-пароварка DGC7440X OBSW черный обсидиан",
   "p": "2130000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12630",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/920\/9207bc0b36e14608103ca63ae99cf889.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12630.png",
   "n": "Комби-пароварка DGC7840 BRWS бриллиантовый белый",
   "p": "3270000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12631",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5b3\/5b394931d527bf04e774a81242428e4d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12631.png",
   "n": "Комби-пароварка DGC7840 CLST сталь",
   "p": "3200000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12632",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/fff\/fff718595e7def394b95ba583293c50b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12632.png",
   "n": "Комби-пароварка DGC7840 GRGR графитовый серый",
   "p": "3270000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12633",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7ec\/7ecbec4510a9c396ac929e2bc1631632.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12633.png",
   "n": "Комби-пароварка DGC7840 OBSW черный обсидиан",
   "p": "3270000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12634",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/62d\/62d14c9c31d472c87a629c1646a31b61.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12634.png",
   "n": "Комби-пароварка DGC7460 BRWS бриллиантовый белый",
   "p": "2865000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12635",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a2e\/a2e2e3a59ebdac9ba827dcda516835d9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12635.png",
   "n": "Комби-пароварка DGC7460 CLST сталь",
   "p": "2790000.00",
   "t": "Пароварки",
   "s": 1
 }, {
   "id": "12636",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/1bf\/1bfaa3a31ee51f518304409afb6798ea.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12636.png",
   "n": "Комби-пароварка DGC7460 GRGR графитовый серый",
   "p": "2865000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12637",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/697\/6970d60efc65d925ff850125787f773e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12637.png",
   "n": "Комби-пароварка DGC7460 OBSW черный обсидиан",
   "p": "2865000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12638",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f36\/f3684552b4c8d83fe35920cd0841089c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12638.png",
   "n": "Комби-пароварка DGC7460X BRWS бриллиантовый белый",
   "p": "2865000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12639",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e94\/e94a90403c7f297e7ce3c9ac41bf062b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12639.png",
   "n": "Комби-пароварка DGC7460X GRGR графитовый серый",
   "p": "2865000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12640",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c23\/c23131a1ea6cfdc7d6e969a38d587c10.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12640.png",
   "n": "Комби-пароварка DGC7460X OBSW черный обсидиан",
   "p": "2865000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12641",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e3e\/e3e3d61333e027341bdc18e383c362a6.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12641.png",
   "n": "Комби-пароварка DGC7840X BRWS бриллиантовый белый",
   "p": "3270000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12642",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/fa5\/fa5659b50ad23b3b3b84909bdb6e1690.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12642.png",
   "n": "Комби-пароварка DGC7840X GRGR графитовый серый",
   "p": "3270000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12643",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5fb\/5fb238c61fba1f9b3854b4b35e776099.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12643.png",
   "n": "Комби-пароварка DGC7840X OBSW черный обсидиан",
   "p": "3270000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12644",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c59\/c599936c314b0dd2fae62186fdbac393.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12644.png",
   "n": "Комби-пароварка DGC7860 BRWS бриллиантовый белый",
   "p": "4090000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12645",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f53\/f5353bf91782dc6cde987969c108ccf7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12645.png",
   "n": "Комби-пароварка DGC7860 CLST сталь",
   "p": "4020000.00",
   "t": "Пароварки",
   "s": 1
 }, {
   "id": "12646",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/832\/832bb6ed4e030c18a8c264c0b98f7bd3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12646.png",
   "n": "Комби-пароварка DGC7860 GRGR графитовый серый",
   "p": "4090000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12647",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/24c\/24c66a87678b909ef8183a3022b20907.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12647.png",
   "n": "Комби-пароварка DGC7860 OBSW черный обсидиан",
   "p": "4090000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12648",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a7c\/a7cc336b4b7ac6d6cfa21aa6783e00b8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12648.png",
   "n": "Комби-пароварка DGC7860X BRWS бриллиантовый белый",
   "p": "4090000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12649",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/849\/8491268788f9582ede9702157cb41a4c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12649.png",
   "n": "Комби-пароварка DGC7860X GRGR графитовый серый",
   "p": "4090000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12650",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/0ca\/0ca682b4de47f3b206fea66d256ddb86.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12650.png",
   "n": "Комби-пароварка DGC7860X OBSW черный обсидиан",
   "p": "4090000.00",
   "t": "Пароварки",
@@ -3997,42 +3990,42 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "12654",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c8a\/c8a718f9bd1de83d4ff366ebe1d6d703.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12654.png",
   "n": "Микроволновая печь M2230SC OBSW черный обсидиан",
   "p": "550000.00",
   "t": "Микроволновые печи",
   "s": 0
 }, {
   "id": "12655",
-  "i": "https://mca.miele.kz/upload/iblock/d7c/d7c6352f2ae42bece073990f59225be3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12655.png",
   "n": "Микроволновая печь M7240TC CLST сталь",
   "p": "835000.00",
   "t": "Микроволновые печи",
   "s": 0
 }, {
   "id": "12656",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/193\/193eadb39ddecce6197b57efb9320f67.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12656.png",
   "n": "Микроволновая печь M7244TC BRWS бриллиантовый белый",
   "p": "1065000.00",
   "t": "Микроволновые печи",
   "s": 0
 }, {
   "id": "12657",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/912\/912928cd532a9891e628622bdc47d3a0.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12657.png",
   "n": "Микроволновая печь M7244TC CLST сталь",
   "p": "995000.00",
   "t": "Микроволновые печи",
   "s": 0
 }, {
   "id": "12658",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/338\/33837eb40858593c197f9994c6a1f2f7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12658.png",
   "n": "Микроволновая печь M7244TC GRGR графитовый серый",
   "p": "1065000.00",
   "t": "Микроволновые печи",
   "s": 0
 }, {
   "id": "12659",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a5e\/a5ea0986b2dafe48cd9877504c1afceb.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12659.png",
   "n": "Микроволновая печь M7244TC OBSW черный обсидиан",
   "p": "1065000.00",
   "t": "Микроволновые печи",
@@ -4144,70 +4137,70 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12675",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/fda\/fda25cc896aee35a5b8c6a7503b4e433.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12675.png",
   "n": "Отдельно стоящий морозильник FNS28463 ed\/cs",
   "p": "1380000.00",
   "t": "Холодильники и морозильники",
   "s": 1
 }, {
   "id": "12676",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9a5\/9a5c3c99abad7423013de92f592e275c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12676.png",
   "n": "Отдельно стоящий холодильник KS28423D ed\/cs",
   "p": "1250000.00",
   "t": "Холодильники и морозильники",
   "s": 1
 }, {
   "id": "12677",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/53a\/53aad29dad820a9360fb8083d7946d27.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12677.png",
   "n": "Пароварка с СВЧ DGM7440 BRWS бриллиантовый белый",
   "p": "1630000.00",
   "t": "Пароварки",
   "s": 1
 }, {
   "id": "12678",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ee3\/ee30b0ecc0a5969696d0de7b4ce51c19.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12678.png",
   "n": "Пароварка с СВЧ DGM7440 CLST сталь",
   "p": "1550000.00",
   "t": "Пароварки",
   "s": 1
 }, {
   "id": "12679",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/79e\/79ea59633c4c8e36c70b677e9964a538.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12679.png",
   "n": "Пароварка с СВЧ DGM7440 GRGR графитовый серый",
   "p": "1630000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12680",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/72a\/72a5f8b410d9b7cd454f178410123eef.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12680.png",
   "n": "Пароварка с СВЧ DGM7440 OBSW черный обсидиан",
   "p": "1630000.00",
   "t": "Пароварки",
   "s": 1
 }, {
   "id": "12681",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/636\/636037d4e78701530751ba73b20a31c3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12681.png",
   "n": "Пароварка с СВЧ DGM7840 BRWS бриллиантовый белый",
   "p": "3190000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12682",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3ad\/3ad23efa5106ebf0e86cdd1e9ed429e2.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12682.png",
   "n": "Пароварка с СВЧ DGM7840 CLST сталь",
   "p": "3120000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12683",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7b8\/7b8792f3a1ac97ce89f60b450f7ffe9f.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12683.png",
   "n": "Пароварка с СВЧ DGM7840 GRGR графитовый серый",
   "p": "3190000.00",
   "t": "Пароварки",
   "s": 0
 }, {
   "id": "12684",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/693\/693c54653c8a6861cc9b23d7391da4cd.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12684.png",
   "n": "Пароварка с СВЧ DGM7840 OBSW черный обсидиан",
   "p": "3190000.00",
   "t": "Пароварки",
@@ -4319,35 +4312,35 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12712",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/582\/582aa836b79c4c1aa854f7ba9de03e9a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12712.png",
   "n": "Посудомоечная машина G7150 SCVi",
   "p": "885000.00",
   "t": "Посудомоечные машины",
   "s": 0
 }, {
   "id": "12714",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/64b\/64b82cd73c759bb6e6e0102a1da1fbad.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12714.png",
   "n": "Посудомоечная машина G7360 SCVi",
   "p": "1210000.00",
   "t": "Посудомоечные машины",
   "s": 0
 }, {
   "id": "12715",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/22b\/22bb3da0386d7d7759bbdc5eee72bf01.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12715.png",
   "n": "Посудомоечная машина G7560 SCVi",
   "p": "1520000.00",
   "t": "Посудомоечные машины",
   "s": 0
 }, {
   "id": "12716",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/2d4\/2d4181832d067359e90d530bc7639ae7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12716.png",
   "n": "Посудомоечная машина G7960 SCVi K2O",
   "p": "2335000.00",
   "t": "Посудомоечные машины",
   "s": 0
 }, {
   "id": "12717",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/413\/413c582df08710c24f4db0f45af63171.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12717.png",
   "n": "Посудомоечная машина G7965 SCVi XXL",
   "p": "2405000.00",
   "t": "Посудомоечные машины",
@@ -4361,7 +4354,7 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12723",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/16c\/16c6adcf37207d2beea64f07d84abd9f.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12723.png",
   "n": "Комбинированный духовой шкаф DialogOven DO7860 CLST сталь",
   "p": "6110000.00",
   "t": "Духовые шкафы",
@@ -4466,21 +4459,21 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "12745",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7da\/7da1e3a0031e34c33ee81f259b42ceb9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12745.png",
   "n": "Комбинированный духовой шкаф DialogOven DO7860 BRWS бриллиантовый белый",
   "p": "6110000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12746",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ac6\/ac6f3abacfe1725ddb776da686d647e8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12746.png",
   "n": "Комбинированный духовой шкаф DialogOven DO7860 GRGR графитовый серый",
   "p": "6110000.00",
   "t": "Духовые шкафы",
   "s": 0
 }, {
   "id": "12747",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/4fd\/4fd65298f2af72b892a1d868b9219ad4.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12747.png",
   "n": "Комбинированный духовой шкаф DialogOven DO7860 OBSW чёрный обсидиан",
   "p": "6110000.00",
   "t": "Духовые шкафы",
@@ -4494,42 +4487,42 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "12749",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a0b\/a0bfb132a171b49e6e574d50f049e4c9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12749.png",
   "n": "Встраиваемый холодильник MasterCool K2801Vi",
   "p": "6100000.00",
   "t": "Холодильники и морозильники",
   "s": 0
 }, {
   "id": "12750",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f6e\/f6ea2f59bfa5fb011ed7e3d592d8763e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12750.png",
   "n": "Встраиваемый холодильник-морозильник MasterCool KF2901Vi",
   "p": "7070000.00",
   "t": "Холодильники и морозильники",
   "s": 0
 }, {
   "id": "12751",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/abe\/abe3de77c25f93c46e23d8b328efc48e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12751.png",
   "n": "Встраиваемый холодильник-морозильник MasterCool KF2981Vi",
   "p": "7240000.00",
   "t": "Холодильники и морозильники",
   "s": 0
 }, {
   "id": "12752",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3b3\/3b335e45c808639d9eedffbf8c5141d6.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12752.png",
   "n": "Встраиваемый морозильник MasterCool F2411Vi",
   "p": "5550000.00",
   "t": "Холодильники и морозильники",
   "s": 0
 }, {
   "id": "12753",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/252\/252757a28debe6e64fa328064e6f06c2.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12753.png",
   "n": "Встраиваемый винный холодильник MasterCool KWT2671ViS",
   "p": "7570000.00",
   "t": "Холодильники и морозильники",
   "s": 0
 }, {
   "id": "12755",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d2f\/d2f777785316e41e1624ff7d0b9bd530.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12755.png",
   "n": "Вытяжка DA6999W BRWS бриллиантовый белый",
   "p": "2020000.00",
   "t": "Вытяжки",
@@ -4585,14 +4578,14 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12765",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e27\/e270964446b4b216d9f8d59f836618f7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12765.png",
   "n": "Холодильник-морозильник (соло) KFN 29162 D ws",
   "p": "545000.00",
   "t": "Холодильники и морозильники",
   "s": 1
 }, {
   "id": "12768",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/037\/0377edeba3462dd5d1203bd6ed7c8a48.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12768.png",
   "n": "Панель конфорок со встроенной вытяжкой KMDA7633 FR",
   "p": "2230000.00",
   "t": "Панели конфорок",
@@ -4613,7 +4606,7 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12776",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ef8\/ef897c8187c13751db4a5f46383d5285.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12776.png",
   "n": "Встраиваемый морозильник MasterCool F2671Vi",
   "p": "6470000.00",
   "t": "Холодильники и морозильники",
@@ -4669,14 +4662,14 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12811",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/573\/573cd052451fc04aad3e14e8ea60addd.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12811.png",
   "n": "Панель конфорок KM7679 FR TempControl",
   "p": "1481000.00",
   "t": "Панели конфорок",
   "s": 0
 }, {
   "id": "12812",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f59\/f59a244941ae79e5275c61a426566c52.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12812.png",
   "n": "Панель конфорок KM7879 FL TempControl",
   "p": "2155000.00",
   "t": "Панели конфорок",
@@ -4697,49 +4690,49 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12838",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/872\/87235e258069e4b124b5dce9fd25935a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12838.png",
   "n": "Стиральная машина WEI865WPS Chrome Edition",
   "p": "982000.00",
   "t": "Стиральные машины",
   "s": 0
 }, {
   "id": "12839",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/32b\/32bfa581fcf1b9129e53255cf3bc3dd1.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12839.png",
   "n": "Стиральная машина WED125WCS Chrome Edition",
   "p": "549000.00",
   "t": "Стиральные машины",
   "s": 1
 }, {
   "id": "12840",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ace\/acec8d439383dcc4b38619cf755ef376.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12840.png",
   "n": "Стиральная машина WEG365WCS Chrome Edition",
   "p": "792000.00",
   "t": "Стиральные машины",
   "s": 0
 }, {
   "id": "12841",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5e2\/5e2ea56530045f15d41a12581118857a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12841.png",
   "n": "Стиральная машина WEG675WCS Chrome Edition",
   "p": "792000.00",
   "t": "Стиральные машины",
   "s": 1
 }, {
   "id": "12842",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/08e\/08e1325f62c751fe8fd15c73da8075a0.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12842.png",
   "n": "Стиральная машина WWD120WCS White Edition",
   "p": "549000.00",
   "t": "Стиральные машины",
   "s": 1
 }, {
   "id": "12843",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/38d\/38d3b0f245f45786b311d984b50ccb27.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12843.png",
   "n": "Стиральная машина WWG660WCS White Edition",
   "p": "792000.00",
   "t": "Стиральные машины",
   "s": 0
 }, {
   "id": "12844",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/615\/61575d0ab3484be726f131cbdb677f25.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12844.png",
   "n": "Стиральная машина WWI860WPS White Edition",
   "p": "982000.00",
   "t": "Стиральные машины",
@@ -4795,7 +4788,7 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12859",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/aec\/aeced0b26de62b8528fb601960a92753.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12859.png",
   "n": "Вытяжка DA7378D BRWS AURA бриллиантовый белый",
   "p": "4090000.00",
   "t": "Вытяжки",
@@ -4830,49 +4823,49 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "12869",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/1cb\/1cb8e853aca6489dc144797994196f31.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12869.png",
   "n": "Панель конфорок KM7201 FR",
   "p": "575000.00",
   "t": "Панели конфорок",
   "s": 0
 }, {
   "id": "12870",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ae5\/ae5572b4103d937584439ad31a1edde4.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12870.png",
   "n": "Панель конфорок KM7414 FX",
   "p": "900000.00",
   "t": "Панели конфорок",
   "s": 1
 }, {
   "id": "12871",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/6c8\/6c8606db614bb67a30ff79e286ba3e83.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12871.png",
   "n": "Панель конфорок KM7464 FR",
   "p": "680000.00",
   "t": "Панели конфорок",
   "s": 0
 }, {
   "id": "12872",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/118\/11802c4e9be507f78edae5971dff2d4f.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12872.png",
   "n": "Панель конфорок KM7564 FL",
   "p": "980000.00",
   "t": "Панели конфорок",
   "s": 0
 }, {
   "id": "12873",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c6f\/c6f88e824e9493457313346946bf0c74.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12873.png",
   "n": "Панель конфорок KM7575 FR",
   "p": "1450000.00",
   "t": "Панели конфорок",
   "s": 0
 }, {
   "id": "12875",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e61\/e61b461ddf6fe1c9521b4977f4dadfe7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12875.png",
   "n": "Панель конфорок KM7684 FL",
   "p": "1615000.00",
   "t": "Панели конфорок",
   "s": 0
 }, {
   "id": "12876",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/16a\/16ac961545d19ed148e294fe6d83e388.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12876.png",
   "n": "Панель конфорок KM7697 FR",
   "p": "2185000.00",
   "t": "Панели конфорок",
@@ -4998,70 +4991,56 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "12904",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/fbc\/fbc18d5ed76048f62919f3aaffbdddca.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12904.png",
   "n": "Посудомоечная машина G5000 SC BRWS Active",
   "p": "405000.00",
   "t": "Посудомоечные машины",
   "s": 1
 }, {
   "id": "12905",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/dc5\/dc57825dd1f339a87aa03e21078b33ae.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12905.png",
   "n": "Посудомоечная машина G5000 SC CLST Active",
   "p": "470000.00",
   "t": "Посудомоечные машины",
   "s": 1
 }, {
-  "id": "12906",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/42d\/42d276e1657d10ff05469b270f730235.jpeg",
-  "n": "Посудомоечная машина G5000 SCi CLST Active",
-  "p": "535000.00",
-  "t": "Посудомоечные машины",
-  "s": 1
-}, {
   "id": "12909",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9f6\/9f6cb2cdd4becbc12a5bf18dfcb05c43.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12909.png",
   "n": "Посудомоечная машина G5430 SC BRWS Active",
   "p": "459000.00",
   "t": "Посудомоечные машины",
   "s": 1
 }, {
   "id": "12910",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/26b\/26b2ce57fbe920b6fc7e1b659044e517.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12910.png",
   "n": "Посудомоечная машина G5481 SCVi Active",
   "p": "540000.00",
   "t": "Посудомоечные машины",
   "s": 0
 }, {
   "id": "12911",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/fb5\/fb58360fa9b0d30f11aaadd4bf9d2ae9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12911.png",
   "n": "Посудомоечная машина G5690 SCVi",
   "p": "890000.00",
   "t": "Посудомоечные машины",
   "s": 0
 }, {
   "id": "12913",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/877\/87770c351528241ba6a2c2ef24cc80bf.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12913.png",
   "n": "Посудомоечная машина G5050 SCVi Active",
   "p": "535000.00",
   "t": "Посудомоечные машины",
   "s": 0
 }, {
   "id": "12914",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f5c\/f5c84c819a458a1bb9ebe258cb264a1c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12914.png",
   "n": "Посудомоечная машина G5260 SCVi Active Plus",
   "p": "665000.00",
   "t": "Посудомоечные машины",
   "s": 0
 }, {
-  "id": "12915",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/4ee\/4eecf708f0abcef26520be35188ebbb1.jpeg",
-  "n": "Посудомоечная машина G5265 SCVi XXL Active Plus",
-  "p": "715000.00",
-  "t": "Посудомоечные машины",
-  "s": 0
-}, {
   "id": "12923",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9b2\/9b24283c37d9ceeee8028e99bfc23e7e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12923.png",
   "n": "Встраиваемый холодильник MasterCool K2901Vi",
   "p": "6450000.00",
   "t": "Холодильники и морозильники",
@@ -5075,21 +5054,21 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "12928",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e8b\/e8b03e01066fe56385583247ff8dba1a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12928.png",
   "n": "Встраиваемый морозильник MasterCool F2811Vi",
   "p": "6350000.00",
   "t": "Холодильники и морозильники",
   "s": 0
 }, {
   "id": "12935",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d4d\/d4d4ba83cd24c1638bdc8923d71246b8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12935.png",
   "n": "Стиральная машина WW610WCS",
   "p": "896000.00",
   "t": "Стиральные машины",
   "s": 1
 }, {
   "id": "12936",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/fe4\/fe497898c5ee63458a524471f2e2525c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12936.png",
   "n": "Стиральная машина WW650WCS",
   "p": "1149000.00",
   "t": "Стиральные машины",
@@ -5103,63 +5082,63 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12977",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b17\/b17844f4de4f633dd0cedc10d3a77d49.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12977.png",
   "n": "Стиральная машина WWD660WCS White Edition",
   "p": "607000.00",
   "t": "Стиральные машины",
   "s": 1
 }, {
   "id": "12980",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/588\/58876612bb148dd1e993d536513d2015.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12980.png",
   "n": "Стиральная машина WEA025WCS Active",
   "p": "449000.00",
   "t": "Стиральные машины",
   "s": 1
 }, {
   "id": "12981",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/943\/94337c1d5fd494f03cbce72952a53e38.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12981.png",
   "n": "Стиральная машина WSA023WCS Active",
   "p": "449000.00",
   "t": "Стиральные машины",
   "s": 1
 }, {
   "id": "12982",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3fd\/3fde80d27a86bfa9681f78e098bbd997.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12982.png",
   "n": "Стирально-сушильная машина WTD160WCS",
   "p": "979000.00",
   "t": "Стиральные машины",
   "s": 0
 }, {
   "id": "12983",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/1d3\/1d3ccfab0a4b15aa4ea170ca349ceead.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12983.png",
   "n": "Стирально-сушильная машина WTD163WCS",
   "p": "979000.00",
   "t": "Стиральные машины",
   "s": 0
 }, {
   "id": "12984",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f51\/f51ebaee55a7692f04be9e1c55cd005d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12984.png",
   "n": "Стирально-сушильная машина WTR870WPM",
   "p": "1480000.00",
   "t": "Стиральные машины",
   "s": 0
 }, {
   "id": "12985",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/70b\/70ba69edfb23ba15106b9fc10f5c07f9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12985.png",
   "n": "Вытяжка DA9091W GRGR графитовый серый",
   "p": "565000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "12986",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/86f\/86f0005ee758950cbf5fa590a743b8a5.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/12986.png",
   "n": "Вытяжка DA9091W OBSW черный обсидиан",
   "p": "565000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "13004",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/80c\/80c030e64f671b9e628c371a24e679f7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13004.png",
   "n": "Газовая панель конфорок KM 3034-1",
   "p": "1410000.00",
   "t": "Панели конфорок",
@@ -5208,7 +5187,7 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "13091",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c4a\/c4ac3cb86e31f9de72b8adb1ac6aeab6.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13091.png",
   "n": "Посудомоечная машина G7160 SCVi",
   "p": "980000.00",
   "t": "Посудомоечные машины",
@@ -5222,21 +5201,21 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "13142",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/865\/865dfe0c036598a7365a3767a5bcb9a7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13142.png",
   "n": "Холодильник-морозильник KFN7714F",
   "p": "679000.00",
   "t": "Холодильники и морозильники",
   "s": 1
 }, {
   "id": "13143",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/946\/946bcc3ab5db9c8848c0dfeafcb68051.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13143.png",
   "n": "Холодильник-морозильник KFN7744E",
   "p": "1295000.00",
   "t": "Холодильники и морозильники",
   "s": 1
 }, {
   "id": "13156",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/2f0\/2f0cd201f94c709610c53912fe859e56.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13156.png",
   "n": "Морозильник FNS37405i",
   "p": "1570000.00",
   "t": "Холодильники и морозильники",
@@ -5446,161 +5425,161 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "13250",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/8b0\/8b09ac6dff638c8b35af9caf56b2d6bd.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13250.png",
   "n": "Сушильная машина TCA220WP Active",
   "p": "449000.00",
   "t": "Сушильные машины",
   "s": 0
 }, {
   "id": "13251",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c1e\/c1e09f17c34a7f9361f6c1672a72f96d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13251.png",
   "n": "Сушильная машина TCR790WP Chrome Edition",
   "p": "1558000.00",
   "t": "Сушильные машины",
   "s": 0
 }, {
   "id": "13252",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3c9\/3c92500389c471f9aafa1de027ecc5d2.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13252.png",
   "n": "Сушильная машина TEC225WP Chrome Edition",
   "p": "519000.00",
   "t": "Сушильные машины",
   "s": 0
 }, {
   "id": "13253",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/048\/0483c03d58b793b8001f4d4c0f9b9448.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13253.png",
   "n": "Сушильная машина TED265WP Chrome Edition",
   "p": "575000.00",
   "t": "Сушильные машины",
   "s": 0
 }, {
   "id": "13254",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/250\/25086c85a33a05d1d2ff7cbf9d2bcc1f.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13254.png",
   "n": "Сушильная машина TEF765WP Chrome Edition",
   "p": "746000.00",
   "t": "Сушильные машины",
   "s": 0
 }, {
   "id": "13255",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f84\/f840edf8460c9e71a50575e015d82511.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13255.png",
   "n": "Сушильная машина TEF775WP Chrome Edition",
   "p": "746000.00",
   "t": "Сушильные машины",
   "s": 0
 }, {
   "id": "13256",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9be\/9be3bcc5e3bc8ce295cf94076e558c8a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13256.png",
   "n": "Сушильная машина TEL785WP Chrome Edition",
   "p": "1045000.00",
   "t": "Сушильные машины",
   "s": 1
 }, {
   "id": "13257",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/65e\/65ea2caf9525cd28933b4aea17d8256b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13257.png",
   "n": "Сушильная машина TWC220WP White Edition",
   "p": "519000.00",
   "t": "Сушильные машины",
   "s": 0
 }, {
   "id": "13258",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/978\/978b1fc0aaebba5e39fcc4eb9dabc9be.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13258.png",
   "n": "Сушильная машина TWD260WP White Edition",
   "p": "575000.00",
   "t": "Сушильные машины",
   "s": 0
 }, {
   "id": "13259",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/874\/874a71919fa77a1eea17f8d1f4ca9605.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13259.png",
   "n": "Сушильная машина TWF760WP White Edition",
   "p": "746000.00",
   "t": "Сушильные машины",
   "s": 0
 }, {
   "id": "13260",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e22\/e22ece083382133cf73b5ddca7b76ac2.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13260.png",
   "n": "Сушильная машина TWL780WP White Edition",
   "p": "1045000.00",
   "t": "Сушильные машины",
   "s": 0
 }, {
   "id": "13261",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/2c2\/2c214a3914b0dea363f3eb1c6579cc27.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13261.png",
   "n": "Сушильная машина TWR780WP White Edition",
   "p": "1558000.00",
   "t": "Сушильные машины",
   "s": 0
 }, {
   "id": "13262",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/353\/353ae23fbfe75e6265300e6a078f3106.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13262.png",
   "n": "Сушильная машина TWV780WP White Edition",
   "p": "1875000.00",
   "t": "Сушильные машины",
   "s": 0
 }, {
   "id": "13263",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/378\/378c7a97b8eb9653898efbea832d5cbd.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13263.png",
   "n": "Стиральная машина WWH860WCS White Edition",
   "p": "873000.00",
   "t": "Стиральные машины",
   "s": 0
 }, {
   "id": "13264",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/bd0\/bd0e761280362b88f69bac35b2002a7a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13264.png",
   "n": "Вытяжка DAD4840 Levantar",
   "p": "1450000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "13337",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7b6\/7b68e913dda2efcf594475127f105811.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13337.png",
   "n": "Вытяжка DAS2620",
   "p": "299000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "13338",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/8d8\/8d8cd2915a9fea52afd58cbca008dac6.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13338.png",
   "n": "Вытяжка DAS2920",
   "p": "360000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "13339",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/92b\/92bb8708201f525ad31af3e81374e05d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13339.png",
   "n": "Вытяжка DAS4630",
   "p": "499000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "13340",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d9c\/d9c6d23049849990aae622707ec7fea8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13340.png",
   "n": "Вытяжка DAS4640",
   "p": "565000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "13341",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b26\/b26fcb798ab010102dc44bc1e6daf2ea.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13341.png",
   "n": "Вытяжка DAS4930",
   "p": "565000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "13342",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ed6\/ed65f1ce72e9759a4a446555057ef00b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13342.png",
   "n": "Вытяжка DAS4940",
   "p": "620000.00",
   "t": "Вытяжки",
   "s": 1
 }, {
   "id": "13343",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/51a\/51ac955e59e90e513204d17806537f5c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13343.png",
   "n": "Вытяжка DAS8630",
   "p": "785000.00",
   "t": "Вытяжки",
   "s": 0
 }, {
   "id": "13344",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/380\/38098670e08e4e02fb51649ca39def2e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-image/13344.png",
   "n": "Вытяжка DAS8930",
   "p": "850000.00",
   "t": "Вытяжки",

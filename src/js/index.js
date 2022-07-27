@@ -7,9 +7,18 @@ import './selectDescription.js'
 import './selectCategories.js'
 import './generateProducts.js'
 import './renderProducts.js'
+import Cleave from 'cleave.js';
+import CleavePhone from 'cleave.js/dist/addons/cleave-phone.kz';
 import { dataProducts } from './meile-original'
-import { productsContainer, cartButton, popup } from './constants'
+import { productsContainer, cartButton, popup, popupForm } from './constants'
 import PopupClass from './PopupClass.js'
+
+var cleave = new Cleave('.popup__number', {
+  phone: true,
+  phoneRegionCode: 'KZ',
+  prefix: '+7',
+  delimiter: '-',
+});
 
 const popupInstance = new PopupClass(dataProducts)
 popupInstance.init()
@@ -26,4 +35,9 @@ cartButton.addEventListener('click', ()=> {
   popup.style.display = 'flex';
   document.body.style.overflow = 'hidden';
   popupInstance.openCart()
+})
+
+popupForm.addEventListener('submit', (event) => {
+  event.preventDefault();
+  popupInstance.sendFormData();
 })

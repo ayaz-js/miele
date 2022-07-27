@@ -26,11 +26,16 @@ export const categoriesTabActive = 'products__categories-tab--active'
 
 // Popup
 export const popup = document.querySelector('.popup');
-export const closePopupButton = document.querySelector('.popup__close');
+export const closePopupButton = document.querySelectorAll('.popup__close');
 export const popupContent = document.querySelector('.popup__content');
 export const popupButton = document.querySelector('.popup__button');
 export const successPopup = document.querySelector('.popup__success');
 export const popupOverlay = document.querySelector('.popup__overlay');
+export const popupForm = document.querySelector('.popup__form');
+export const inputName = document.querySelector('.popup__name');
+export const inputPhone = document.querySelector('.popup__number');
+export const inputEmail = document.querySelector('.popup__email');
+export const popupWrapper = document.querySelector('.popup__wrapper');
 
 // Cart
 export const cartButton = document.querySelector('.cart__button')
