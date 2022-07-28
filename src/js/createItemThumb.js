@@ -27,7 +27,7 @@ export default function createItemThumb({
         <img src="https://www.technodom.kz/under/miele/minus.svg" alt="">
       </button>
     </div>
-  <div>
+  </div>
   `
   return div;
 }

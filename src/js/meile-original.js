@@ -175,28 +175,28 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "11184",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/cf6\/cf604968e62c99a860b7043f3c8e70fc.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "DSM 400",
   "p": "97000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "11219",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/24a\/24a18765555e897a79c0a6643fac9f41.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "STL-DA 5",
   "p": "89000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "11220",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/30e\/30ece67909451415d482feb13e3fefab.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Фильтр тонкой очистки",
   "p": "15000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
   "s": 1
 }, {
   "id": "11225",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e81\/e81567ea00dbd749f1115133a99d3ad2.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Ароматизатор для посудомоечных машин",
   "p": "4000.00",
   "t": "Моющие и чистящие средства - Для посудомоечных машин",
@@ -259,7 +259,7 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "11283",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/20f\/20f55a66c7ab92aebab7897955a5221e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Отпариватель ST30 для гладильных систем FashionMaster 3.0 (B3312, B3847)",
   "p": "105000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к гладильным системам",
@@ -294,21 +294,21 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "11318",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/1de\/1de709db2a7373a37588702836ec974d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Гибкая щелевая насадка SFD 20",
   "p": "10000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "11319",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7a0\/7a0ab4787510f10da26b015667f114d1.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Гибкий удлинитель шланга SFS 10 ",
   "p": "22000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "11322",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/1cf\/1cffec9be9f68286b8951d52f4ecbe3a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Гладильная машина B 995 D",
   "p": "1107000.00",
   "t": "Гладильные машины",
@@ -322,126 +322,126 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "11456",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/81c\/81cc5eac3333d3a727f5c76907e144d4.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Катридж для очистки от накипи СМ 7",
   "p": "51000.00",
   "t": "Моющие и чистящие средства - Для кофемашин",
   "s": 0
 }, {
   "id": "11459",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/2fd\/2fdd083c6a37425e3e1819605123c2f6.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Компенсационная планка (сталь) HKL 60 clst",
   "p": "27000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11467",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ea9\/ea919c2e7a2149d77fbdf3f6f9ed468d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Комплект для переоборудования настенных вытяжек DUW 20",
   "p": "37000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "11469",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5ae\/5aee0a8c64db09cbf23793e612a751fe.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Комплект для переоборудования встраиваемых вытяжек DUU 151",
   "p": "94000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "11483",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e6b\/e6b7433733b6e5e210e393fc0d437707.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Контейнер TWIN DOS 1",
   "p": "21000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
   "s": 1
 }, {
   "id": "11484",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/2e2\/2e2a8b6cbe92acf16b8d3a49f1f9723a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Контейнер TWIN DOS 2",
   "p": "21000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
   "s": 1
 }, {
   "id": "11488",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/592\/592e83a7ed563412c0de7458c45a70ae.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Корзина для сушки T1 TRK 555",
   "p": "48500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
   "s": 1
 }, {
   "id": "11493",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/09f\/09fb55fb2963235533d21075a28f2e56.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Короб для вытяжки DADC 6000 CLST сталь",
   "p": "97000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 1
 }, {
   "id": "11514",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/754\/754dc14de78a305c342d7d3b47d35c2d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина CM7350 OBSW черный обсидиан",
   "p": "1450000.00",
   "t": "Кофемашины - Соло кофемашины",
   "s": 0
 }, {
   "id": "11516",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b68\/b685fc459a0f0f94b758eed73d926b23.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина CM7750 OBSW черный обсидиан",
   "p": "1940000.00",
   "t": "Кофемашины - Соло кофемашины",
   "s": 1
 }, {
   "id": "11536",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/48a\/48a678da2692e5c1b2f27e3ca9c3e137.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Круглая форма для запекания HBF 27-1",
   "p": "39000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11537",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/055\/055651e6faf90c714d6e2efed3c9a0e2.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Круглая форма для запекания HBFL 27-1",
   "p": "48500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11538",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/966\/9666a457c6a665a134f5b830d7a517f5.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Крышка HBD 60-22",
   "p": "81000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11539",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d49\/d494004aa4df749db4dec87f49adeff1.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Крышка HBD 60-35",
   "p": "89000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11541",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9c1\/9c12eb655314d57d255856ee69e242ac.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Крышка для лотков DGD",
   "p": "13000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пароваркам",
   "s": 0
 }, {
   "id": "11548",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d76\/d766164e5b3cce97e56fab5a8dac01ba.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Лоток без перфорации DGG 3",
   "p": "23000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пароваркам",
   "s": 0
 }, {
   "id": "11549",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5d8\/5d8738db949a90341949b41b5ef80c8e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Лоток без перфорации DGG 7",
   "p": "21000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пароваркам",
   "s": 0
 }, {
   "id": "11558",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d82\/d8272d143829476af31a5322edc5f1b9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Малая турбощетка STB 101",
   "p": "49500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
@@ -455,49 +455,49 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "11581",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5ee\/5eefe0f715a19646ca4cad44f6a3115c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Монтажная планка CSZL7000",
   "p": "40500.00",
-  "t": "Аксессуары к бытовой технике - Принадлежности к модульным панелям \"Комби\"",
+  "t": "Аксессуары к бытовой технике - Принадлежности к модульным панелям",
   "s": 0
 }, {
   "id": "11589",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/dea\/dea7e5fae8f177c06a31a3ebbf025795.jpeg",
-  "n": "Монтажный комплект UBS T1\/G",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Монтажный комплект UBS T1/G",
   "p": "48000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
   "s": 1
 }, {
   "id": "11590",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e22\/e2283b63d565507098520a05c6c6274e.jpeg",
-  "n": "Монтажный комплект UBS W1\/G",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Монтажный комплект UBS W1/G",
   "p": "48000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
   "s": 1
 }, {
   "id": "11591",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7c6\/7c6cff3afc1cb49a42cbab5e3fa18469.jpeg",
-  "n": "Монтажный комплект UBS-W\/T G",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Монтажный комплект UBS-W/T G",
   "p": "55000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
   "s": 0
 }, {
   "id": "11593",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/438\/438b6abf58e2107c48dfd21cc094bf5a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Монтажный комплект WTV 406",
   "p": "97000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
   "s": 0
 }, {
   "id": "11596",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/70c\/70c355ebcd68dc57b57fec53c965bf33.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Монтажный комплект WTV 412",
   "p": "48000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
   "s": 0
 }, {
   "id": "11597",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/795\/7954a487830b656497686f90bc8a64a3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Монтажный комплект WTV 414",
   "p": "89000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
@@ -518,14 +518,14 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "11602",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9fa\/9fa9ac6a2e9b4808e4df2c25e1d6d77a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Монтажный комплект WTV 511",
   "p": "171000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
   "s": 1
 }, {
   "id": "11603",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/07f\/07f415ae94739386a65da1bfa6da0d77.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Монтажный комплект WTV 512",
   "p": "171000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
@@ -539,63 +539,63 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "11629",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/eb8\/eb85081fa674af1589bbb2195f6c8efe.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Насадка для батарей SHB30",
   "p": "16000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "11631",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b33\/b33e171d9c2eb58b8e340265c8feddea.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Насадка для матрасов SMD 10",
   "p": "11000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "11635",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/da5\/da55a2eea9ea0c0e867bb8dbe9d76a99.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Насадка для паркета SBB-400-3 Parquet Twister XL",
   "p": "48500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "11637",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f68\/f680da2b9d0508aeee0e0d0559897e42.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Насадка для щадящей уборки SSP 10",
   "p": "13000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "11640",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ecc\/ecc2dc21c5d9e23ab7c9806dbeb1eb8d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Ополаскиватель",
   "p": "5000.00",
   "t": "Моющие и чистящие средства - Для посудомоечных машин",
   "s": 1
 }, {
   "id": "11643",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b04\/b0468741f735e5b74fa876077c85bbf1.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пакеты для вакууматора 180*280 мм VB 1828",
   "p": "27000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вакууматорам",
   "s": 1
 }, {
   "id": "11644",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/077\/07721470d6da27c0a20570080a6f18ce.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пакеты для вакууматора 240*350 мм VB 2435",
   "p": "32500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вакууматорам",
   "s": 1
 }, {
   "id": "11649",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/516\/51607fb3d67d72a8bf4ca4810dd821fe.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Панель комби (индукция) CS 7612 FL",
   "p": "1035000.00",
   "t": "Модульные панели SmartLine - Модульные панели SmartLine",
   "s": 0
 }, {
   "id": "11651",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b72\/b723fcc4059cafc73d1d6a4776a4e374.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Панель комби (тепан) CS 7632 FL",
   "p": "1695000.00",
   "t": "Модульные панели SmartLine - Модульные панели SmartLine",
@@ -616,252 +616,252 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "11730",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/813\/813bbabfc48f93b2bdb430f9d90e737f.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Перфорированный противень DGGL 4",
   "p": "30000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пароваркам",
   "s": 0
 }, {
   "id": "11737",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7cf\/7cf3a8646891c687e46047796096917a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Поддон для жира HGBB 71",
   "p": "63000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11738",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/cd6\/cd63d72f49720112ab715b2b178be1e2.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Поддон для жира HGBB 91",
   "p": "129000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11740",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/11d\/11d30b927576e9bcaa4d766b74fe9183.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Поддон для жира HSB 90",
   "p": "77000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11769",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/422\/42282a06d1fceb962073e94ef8b02130.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Порошок для мытья посуды",
   "p": "15000.00",
   "t": "Моющие и чистящие средства - Для посудомоечных машин",
   "s": 1
 }, {
   "id": "11770",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b1f\/b1fb0eb2844209abeb289dd14253c58e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Порошок для стирки цветного белья",
   "p": "16000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "11832",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/fb8\/fb8f96a08990dbf48c5ce8d9e55b7284.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Противень HBB 71",
   "p": "55000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11834",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/153\/153c4f0b6f2853559c6094b1616c0024.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Противень без перфорации DGG 2",
   "p": "21000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пароваркам",
   "s": 0
 }, {
   "id": "11835",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e52\/e52be15a7d224c82b2910bf1405cf9a8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Противень с перфорацией HBBL 71",
   "p": "63000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11836",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e37\/e37576235f07052e9ac34c8b91814d8c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Противень с перфорацией HBBL60",
   "p": "35000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11839",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/96b\/96b5f8773f9a5e4678160978b58295d9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылевой мешок FJM HyClean 3D Efficiency",
   "p": "9000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "11840",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/0cc\/0cc16e23bbbe47ebf250a6d9eeb2e3e3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылевой мешок GN HyClean 3D Efficiency",
   "p": "9000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "11841",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/99e\/99e1da6b25283a35501dfcf4f8c33a31.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылевой мешок HyClean U",
   "p": "10000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "11861",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/380\/3802dd0f356cc878358a4b27625a8e42.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SBAD3 Classic C1 белый лотос",
   "p": "95900.00",
   "t": "Пылесосы - Серия Classic C1 (S2)",
   "s": 1
 }, {
   "id": "11862",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/1cf\/1cf666c50e9439cf96f6ed040782b941.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SBAD3 Classic C1 техн.синий",
   "p": "95900.00",
   "t": "Пылесосы - Серия Classic C1 (S2)",
   "s": 1
 }, {
   "id": "11877",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f67\/f6799f36072436bcc8d84cc7f6a520e5.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SGEA3 Complete C3 Cat&Dog ежевичный красный",
   "p": "199900.00",
   "t": "Пылесосы - Серия Complete C3 (S8)",
   "s": 1
 }, {
   "id": "11886",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/06d\/06d8719e018161892249e85819ebfcf2.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SKCR3 Blizzard CX 1 Cat & Dog манговый красный",
   "p": "284900.00",
   "t": "Пылесосы - Безмешковые пылесосы",
   "s": 1
 }, {
   "id": "11887",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/033\/033ed6ad890a97c2c2c6a94db541b9bf.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SKCR3 Blizzard CX 1 Excellence белый лотос",
   "p": "224900.00",
   "t": "Пылесосы - Безмешковые пылесосы",
   "s": 1
 }, {
   "id": "11888",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/198\/198dba9c25fbd762dd02f222700f5ea9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SKMR3 Blizzard CX 1 Comfort черный обсидиан",
   "p": "325900.00",
   "t": "Пылесосы - Безмешковые пылесосы",
   "s": 1
 }, {
   "id": "11890",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/573\/57392525c19614e0df6c02756503efd8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SKRR3 Blizzard CX 1 Red манговый красный",
   "p": "203900.00",
   "t": "Пылесосы - Безмешковые пылесосы",
   "s": 1
 }, {
   "id": "11895",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/0a6\/0a6540f002fcf32c5fe289041838f722.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Регенерирующая соль",
   "p": "3000.00",
   "t": "Моющие и чистящие средства - Для посудомоечных машин",
   "s": 1
 }, {
   "id": "11898",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a2d\/a2dd1c3ed079714758d969e4ef344f50.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Решетка для выпечки и жарки HBBR 72",
   "p": "72500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11899",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/064\/06461285ec215672528b935230ef7cc5.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Решетка для выпечки и жарки HBBR 92",
   "p": "74000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "11901",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e27\/e2701ed4c2dc3e509a6514338aa4c07f.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Салфетка из микрофибры",
   "p": "5000.00",
   "t": "Моющие и чистящие средства - Для варочных панелей",
   "s": 1
 }, {
   "id": "11902",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b6f\/b6fc9de8f5f0762eed46d475f9fafea1.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Сервировочный лоток DGSE1",
   "p": "97000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пароваркам",
   "s": 0
 }, {
   "id": "11912",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ddd\/ddd7a7a3565b6e3c90cfc3d3ae5a4d83.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для стирки белого белья 2,7 кг.",
   "p": "16000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "11913",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7d0\/7d0dd901e97eef594f8b4456ac7749ff.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для стирки верхней одежды",
   "p": "9000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "11916",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3a6\/3a629f72a46e4f55891bc9b2cf71aa5b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для стирки вещей с наполнением из пуха",
   "p": "9000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "11921",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/33e\/33eda1fef0f366507f4ddf1770efb8a7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для стирки темного белья UltraDark (1,5 л)",
   "p": "11500.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "11928",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3b0\/3b07aa62bcc817d0016df5b2d9ce3af1.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для удаления накипи в стиральных и посудомоечных машинах",
   "p": "7500.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "11935",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/10b\/10bdd4b17189ecb206f72eaf9ed7ab91.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для ухода за посудомоечными машинами",
   "p": "8500.00",
   "t": "Моющие и чистящие средства - Для посудомоечных машин",
   "s": 1
 }, {
   "id": "11939",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9be\/9be15846e027d9950939481762e40a86.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для чистки духовых шкафов",
   "p": "8500.00",
   "t": "Моющие и чистящие средства - Для духовых шкафов",
   "s": 1
 }, {
   "id": "11942",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f29\/f29023e99bc5030fc9818e83dcf5539a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для чистки посудомоечных и стиральных машин",
   "p": "7500.00",
   "t": "Моющие и чистящие средства - Для посудомоечных машин",
   "s": 1
 }, {
   "id": "11945",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/39c\/39cc4e86d98123723ddce184733b1126.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для чистки стеклокерамики и нержавеющей стали",
   "p": "5000.00",
   "t": "Моющие и чистящие средства - Для варочных панелей",
   "s": 1
 }, {
   "id": "11947",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/827\/8278fbe83cf05f8185183f02a85166c0.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для чистки трубки подачи молока",
   "p": "25000.00",
   "t": "Моющие и чистящие средства - Для кофемашин",
   "s": 1
 }, {
   "id": "11950",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3ec\/3ec8bda6da9f90855d9a213eb6cf6828.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Стеклянный поддон HGS 100",
   "p": "34000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
@@ -875,154 +875,154 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12040",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/8c8\/8c80b318f9739885c57c511d31ab5f7e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Таблетка для отчистки от кофейных масел для кофемашин",
   "p": "13000.00",
   "t": "Моющие и чистящие средства - Для кофемашин",
   "s": 1
 }, {
   "id": "12047",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3c4\/3c4054a3f3d4594598114cbf65bddcbb.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Таблетки для удаления накипи",
   "p": "13000.00",
   "t": "Моющие и чистящие средства - Для кофемашин",
   "s": 1
 }, {
   "id": "12051",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5f0\/5f046e6c900e0c2054796b455a2584df.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Телескопические направляющие HFC 70-C",
   "p": "97000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "12052",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c90\/c9056eeaf4e72fd754de2e54cb60110d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Телескопические направляющие HFC 71",
   "p": "129000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "12053",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/42c\/42c311f328ad3da4e02a3652708eb407.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Телескопические направляющие HFC 72",
   "p": "146000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "12055",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/273\/2733197ee71708001a281e8039e6f451.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Телескопические направляющие HFC 92",
   "p": "161000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "12061",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/0ef\/0efed3733d2af592a1774894870ea1c2.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Турбощётка STB 305-3 TurboTeq ",
   "p": "61000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "12065",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/4f1\/4f193147b36b179f662c87c1f82a2492.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Угольный фильтр DKF 12-1 No smell",
   "p": "66000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "12067",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3d0\/3d00c72b8e9bcc45443cf171fccae886.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Угольный фильтр DKF 15-1 No smell",
   "p": "75000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "12072",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d82\/d82abae14e63408d660dd5242ef7121b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Угольный фильтр DKF1000-R",
   "p": "238000.00",
-  "t": "Аксессуары к бытовой технике - Принадлежности к модульным панелям \"Комби\"",
+  "t": "Аксессуары к бытовой технике - Принадлежности к модульным панелям",
   "s": 0
 }, {
   "id": "12073",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/88f\/88f146ad62523f4cb88be5b3c7c1ffa8.jpeg",
-  "n": "Угольный фильтр\/DKF21-1 NoSmell ",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Угольный фильтр/DKF21-1 NoSmell ",
   "p": "231000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "12081",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c28\/c28c7092ef644d7da51cdef06ed33ab9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Универсальный противень HUBB 71",
   "p": "63000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "12082",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/042\/042cdeb40ec985543f8add3c2336d5a7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Универсальный противень HUBB 90",
   "p": "80000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "12083",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f19\/f193722b66f0541fef43c3f4b1a3295a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Универсальный противень HUBB 91",
   "p": "138000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "12087",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3f1\/3f1e7ec0c35c8c1d9c447c06234c5d6a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Устройство для извлечения противня HEG",
   "p": "15000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "12091",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/903\/903f801c26eeb26397ae44fea2184a86.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Фильтр Active AirClean SF AA 30",
   "p": "11000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "12092",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d8b\/d8bb0b8921e509ff157af1c25bf4fe37.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Фильтр Active AirClean SF AA-50",
   "p": "11000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "12097",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/74e\/74ed40d01f4654f106efd79ec9f74dd9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Фильтр HEPA AirClean SF HA 30",
   "p": "19500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "12098",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/47d\/47d99d398e9384af766c1e6dde7999e5.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Фильтр HEPA AirClean SF HA 50",
   "p": "19500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "12100",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/660\/6606282cbedfa60d7010c0aa440a4f2e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Флакон с ароматизатором AQUA",
   "p": "9000.00",
   "t": "Моющие и чистящие средства - Для сушильных машин",
   "s": 1
 }, {
   "id": "12103",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/0a2\/0a2fc8f8f845ba688e87cee444deb796.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Флакон с ароматизатором COCOON",
   "p": "9000.00",
   "t": "Моющие и чистящие средства - Для сушильных машин",
   "s": 1
 }, {
   "id": "12104",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a1b\/a1bb0cc73af7b937d0b59868f389701c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Флакон с ароматизатором NATURE",
   "p": "9000.00",
   "t": "Моющие и чистящие средства - Для сушильных машин",
@@ -1064,49 +1064,49 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "12166",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3e4\/3e4d165d44c901c110c0ce4f93a7970e.jpeg",
-  "n": "Цоколь для машин серий W1\/T1 WTS510",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Цоколь для машин серий W1/T1 WTS510",
   "p": "342000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к стиральным и сушильным машинам",
   "s": 1
 }, {
   "id": "12173",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c1e\/c1eaefe4b3ade6040d4f46a2f934631f.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Электрощетка SEB 216-3",
   "p": "107000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "12176",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c6a\/c6a29166b2836173f4189179e1f30391.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Электрощетка для пылесосов серий S5 SEB 217-3",
   "p": "107000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "12182",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b63\/b6354eeb81a7eec497c6a07c894b8598.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Набор капсул Woolcare",
   "p": "7500.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "12183",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/93a\/93a7d27f0a048790349a578af548dab7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Короб для вытяжки DADC 6000 BRWS бриллиантовый белый",
   "p": "102000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "12189",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/be6\/be66642df58469e7d52e4fb5851a589e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Картридж UltraPhase 1",
   "p": "13000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "12190",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c4d\/c4d2d9ce1f7b4ecb258e0fca31bad3be.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SGSA3 Complete C3 Parquet Celebration чёрный обсидиан",
   "p": "205900.00",
   "t": "Пылесосы - Серия Complete C3 (S8)",
@@ -1177,7 +1177,7 @@ export const dataProducts = [{
 }, {
   "id": "12213",
   "i": null,
-  "n": "Дополнительный дозирующий насос DOS 60\/30",
+  "n": "Дополнительный дозирующий насос DOS 60/30",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621715 Machien options - cleaning system universal",
   "s": 0
@@ -1338,7 +1338,7 @@ export const dataProducts = [{
 }, {
   "id": "12238",
   "i": null,
-  "n": "Cушка TA 27\/28",
+  "n": "Cушка TA 27/28",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
@@ -1347,7 +1347,7 @@ export const dataProducts = [{
   "i": null,
   "n": "Автомат для мойки и дезинфекции PG 8583",
   "p": "3097000.00",
-  "t": "640000 Prof washer-disinfectors Lab. Techn. - 640121 Lab Washer-disinf.60cm w\/o drying",
+  "t": "640000 Prof washer-disinfectors Lab. Techn. - 640121 Lab Washer-disinf.60cm w/o drying",
   "s": 1
 }, {
   "id": "12240",
@@ -1380,7 +1380,7 @@ export const dataProducts = [{
 }, {
   "id": "12244",
   "i": null,
-  "n": "Бойлер для PG8527\/28",
+  "n": "Бойлер для PG8527/28",
   "p": null,
   "t": "511000 Проф. стрирально-отжимные машины ≥ 100 л - 511711 Комплектующие",
   "s": 0
@@ -1401,28 +1401,28 @@ export const dataProducts = [{
 }, {
   "id": "12247",
   "i": null,
-  "n": "верхняя корзина O 188\/2",
+  "n": "верхняя корзина O 188/2",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12248",
   "i": null,
-  "n": "верхняя корзина O 188\/2",
+  "n": "верхняя корзина O 188/2",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12249",
   "i": null,
-  "n": "Верхняя корзина O 190\/1",
+  "n": "Верхняя корзина O 190/1",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12250",
   "i": null,
-  "n": "Верхняя корзина O 190\/2",
+  "n": "Верхняя корзина O 190/2",
   "p": "156000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -1457,7 +1457,7 @@ export const dataProducts = [{
 }, {
   "id": "12255",
   "i": null,
-  "n": "Верхняя корзина О 177\/1",
+  "n": "Верхняя корзина О 177/1",
   "p": "458000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -1471,7 +1471,7 @@ export const dataProducts = [{
 }, {
   "id": "12257",
   "i": null,
-  "n": "Возвратное приспособление д\/PM 1318",
+  "n": "Возвратное приспособление д/PM 1318",
   "p": null,
   "t": "531000 Проф. гладильные машины - 531711 Machine options - ironers and finishers",
   "s": 0
@@ -1513,21 +1513,21 @@ export const dataProducts = [{
 }, {
   "id": "12263",
   "i": null,
-  "n": "Вставка E 103\/1",
+  "n": "Вставка E 103/1",
   "p": "106000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12264",
   "i": null,
-  "n": "Вставка E 104\/1",
+  "n": "Вставка E 104/1",
   "p": "115000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 1
 }, {
   "id": "12265",
   "i": null,
-  "n": "Вставка E 105\/1",
+  "n": "Вставка E 105/1",
   "p": "132000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -1604,14 +1604,14 @@ export const dataProducts = [{
 }, {
   "id": "12276",
   "i": null,
-  "n": "Вставка E 135\/2",
+  "n": "Вставка E 135/2",
   "p": "209000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12277",
   "i": null,
-  "n": "Вставка E 135\/3",
+  "n": "Вставка E 135/3",
   "p": "180000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -1632,7 +1632,7 @@ export const dataProducts = [{
 }, {
   "id": "12280",
   "i": null,
-  "n": "Вставка E 139\/1",
+  "n": "Вставка E 139/1",
   "p": "134000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -1744,14 +1744,14 @@ export const dataProducts = [{
 }, {
   "id": "12296",
   "i": null,
-  "n": "Вставка E 439\/3",
+  "n": "Вставка E 439/3",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12297",
   "i": null,
-  "n": "Вставка E 441\/1",
+  "n": "Вставка E 441/1",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -1807,7 +1807,7 @@ export const dataProducts = [{
 }, {
   "id": "12305",
   "i": null,
-  "n": "Вставка E 473\/2",
+  "n": "Вставка E 473/2",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -1828,14 +1828,14 @@ export const dataProducts = [{
 }, {
   "id": "12308",
   "i": null,
-  "n": "Вставка E 521\/2",
+  "n": "Вставка E 521/2",
   "p": "60000.00",
   "t": "622000 Автоматы для мойки и дезинфекции стоматологические - 622715 Baskets and insers",
   "s": 0
 }, {
   "id": "12309",
   "i": null,
-  "n": "Вставка E 522\/1",
+  "n": "Вставка E 522/1",
   "p": "92000.00",
   "t": "622000 Автоматы для мойки и дезинфекции стоматологические - 622715 Baskets and insers",
   "s": 0
@@ -1898,21 +1898,21 @@ export const dataProducts = [{
 }, {
   "id": "12318",
   "i": null,
-  "n": "Вставка Е 903\/1",
+  "n": "Вставка Е 903/1",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12319",
   "i": null,
-  "n": "Вставка Е 907\/1",
+  "n": "Вставка Е 907/1",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12320",
   "i": null,
-  "n": "Вставка Е 908\/1",
+  "n": "Вставка Е 908/1",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
@@ -1975,20 +1975,20 @@ export const dataProducts = [{
 }, {
   "id": "12330",
   "i": null,
-  "n": "Гладильная машина PM 1421 L\/GE",
+  "n": "Гладильная машина PM 1421 L/GE",
   "p": null,
   "t": "531000 Проф. гладильные машины - 531141 Гладильные машины с диаметром вала 40 см",
   "s": 0
 }, {
   "id": "12331",
   "i": null,
-  "n": "Гладильная машина PM 1318 L\/GE",
+  "n": "Гладильная машина PM 1318 L/GE",
   "p": null,
   "t": "531000 Проф. гладильные машины - 531131 Гладильные машины с диаметром вала 30 см",
   "s": 0
 }, {
   "id": "12332",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/8c9\/8c97314500f97ee32e9b51288914cbc3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Гладильный каток HM 21-100 STW",
   "p": null,
   "t": "531000 Проф. гладильные машины - 531111 Гладильные машины с диаметром вала 21 см",
@@ -2010,14 +2010,14 @@ export const dataProducts = [{
 }, {
   "id": "12335",
   "i": null,
-  "n": "Гнездо E 478\/1",
+  "n": "Гнездо E 478/1",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12336",
   "i": null,
-  "n": "Дверь стеклянная GS\/PG8528",
+  "n": "Дверь стеклянная GS/PG8528",
   "p": null,
   "t": "511000 Проф. стрирально-отжимные машины ≥ 100 л - 511711 Комплектующие",
   "s": 0
@@ -2199,7 +2199,7 @@ export const dataProducts = [{
 }, {
   "id": "12362",
   "i": null,
-  "n": "Дисплей для отображения языков G 7823\/24",
+  "n": "Дисплей для отображения языков G 7823/24",
   "p": "1000.00",
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
@@ -2220,7 +2220,7 @@ export const dataProducts = [{
 }, {
   "id": "12365",
   "i": null,
-  "n": "Дополнительный дозирующий насос DOS 60\/30",
+  "n": "Дополнительный дозирующий насос DOS 60/30",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
@@ -2346,14 +2346,14 @@ export const dataProducts = [{
 }, {
   "id": "12383",
   "i": null,
-  "n": "Крышка для монтажного комплекта Abdeckblech PG8527\/28",
+  "n": "Крышка для монтажного комплекта Abdeckblech PG8527/28",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
 }, {
   "id": "12384",
   "i": null,
-  "n": "Крышка для монтажного комплекта MAV 23\/24",
+  "n": "Крышка для монтажного комплекта MAV 23/24",
   "p": "159000.00",
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
@@ -2374,7 +2374,7 @@ export const dataProducts = [{
 }, {
   "id": "12387",
   "i": null,
-  "n": "Многофункциональный модуль MF 01-24\/32",
+  "n": "Многофункциональный модуль MF 01-24/32",
   "p": "250000.00",
   "t": "511000 Проф. стрирально-отжимные машины ≥ 100 л - 511711 Комплектующие",
   "s": 0
@@ -2409,7 +2409,7 @@ export const dataProducts = [{
 }, {
   "id": "12392",
   "i": null,
-  "n": "Модуль для лабораторного стекла А 301\/1",
+  "n": "Модуль для лабораторного стекла А 301/1",
   "p": "282000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 1
@@ -2430,14 +2430,14 @@ export const dataProducts = [{
 }, {
   "id": "12395",
   "i": null,
-  "n": "Модуль для пробирок, виал \/A 304",
+  "n": "Модуль для пробирок, виал /A 304",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12396",
   "i": null,
-  "n": "Модуль жидкого дозирования DOS K 85\/1",
+  "n": "Модуль жидкого дозирования DOS K 85/1",
   "p": "258000.00",
   "t": "511000 Проф. стрирально-отжимные машины ≥ 100 л - 511711 Комплектующие",
   "s": 0
@@ -2465,21 +2465,21 @@ export const dataProducts = [{
 }, {
   "id": "12400",
   "i": null,
-  "n": "Монтажный комплект MAV 23\/24",
+  "n": "Монтажный комплект MAV 23/24",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
 }, {
   "id": "12401",
   "i": null,
-  "n": "Монтажный комплект MAV 25\/26",
+  "n": "Монтажный комплект MAV 25/26",
   "p": "565000.00",
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
 }, {
   "id": "12402",
   "i": null,
-  "n": "Монтажный комплект MAV 27\/28",
+  "n": "Монтажный комплект MAV 27/28",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
@@ -2514,14 +2514,14 @@ export const dataProducts = [{
 }, {
   "id": "12407",
   "i": null,
-  "n": "Нижн.корзина U 874\/1",
+  "n": "Нижн.корзина U 874/1",
   "p": "100000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621715 Machien options - cleaning system universal",
   "s": 0
 }, {
   "id": "12408",
   "i": null,
-  "n": "Нижн.корзина U 874\/2",
+  "n": "Нижн.корзина U 874/2",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -2535,21 +2535,21 @@ export const dataProducts = [{
 }, {
   "id": "12410",
   "i": null,
-  "n": "Основание поддон SBW\/2",
+  "n": "Основание поддон SBW/2",
   "p": "672000.00",
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12411",
   "i": null,
-  "n": "Основание поддон SBW\/4",
+  "n": "Основание поддон SBW/4",
   "p": "657000.00",
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12412",
   "i": null,
-  "n": "Основание-поддон SBW 27\/28",
+  "n": "Основание-поддон SBW 27/28",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -2577,28 +2577,28 @@ export const dataProducts = [{
 }, {
   "id": "12416",
   "i": null,
-  "n": "Пароконденсатор DK 23\/24",
+  "n": "Пароконденсатор DK 23/24",
   "p": "1927000.00",
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
 }, {
   "id": "12417",
   "i": null,
-  "n": "Пароконденсатор DK 25\/26",
+  "n": "Пароконденсатор DK 25/26",
   "p": "2034000.00",
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
 }, {
   "id": "12418",
   "i": null,
-  "n": "Пароконденсатор DK 27\/28",
+  "n": "Пароконденсатор DK 27/28",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
 }, {
   "id": "12419",
   "i": null,
-  "n": "Патрон для обессоливания воды \/VE P 2800",
+  "n": "Патрон для обессоливания воды /VE P 2800",
   "p": "472000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621715 Machien options - cleaning system universal",
   "s": 1
@@ -2633,14 +2633,14 @@ export const dataProducts = [{
 }, {
   "id": "12424",
   "i": null,
-  "n": "Поддон-основание SBW\/1 27\/28",
+  "n": "Поддон-основание SBW/1 27/28",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12425",
   "i": null,
-  "n": "Подставка-основание UE30-60\/60-78",
+  "n": "Подставка-основание UE30-60/60-78",
   "p": "278000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -2653,7 +2653,7 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12427",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/094\/094a90f7be49c581a161ed66948db99d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Подставка-основание US 6008",
   "p": "257000.00",
   "t": "515000 Проф. стиральные машины Octoplus - 515711 Комплектующие",
@@ -2710,14 +2710,14 @@ export const dataProducts = [{
 }, {
   "id": "12436",
   "i": null,
-  "n": "Принтер PRT\/1",
+  "n": "Принтер PRT/1",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
 }, {
   "id": "12437",
   "i": null,
-  "n": "Принтер PRT\/1",
+  "n": "Принтер PRT/1",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
@@ -2759,42 +2759,42 @@ export const dataProducts = [{
 }, {
   "id": "12443",
   "i": null,
-  "n": "Сопло \/ID110",
+  "n": "Сопло /ID110",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12444",
   "i": null,
-  "n": "Сопло \/ID160",
+  "n": "Сопло /ID160",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12445",
   "i": null,
-  "n": "Сопло \/ID180",
+  "n": "Сопло /ID180",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12446",
   "i": null,
-  "n": "Сопло \/ID220",
+  "n": "Сопло /ID220",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12447",
   "i": null,
-  "n": "Сопло \/ID240",
+  "n": "Сопло /ID240",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12448",
   "i": null,
-  "n": "Сопло \/ID90",
+  "n": "Сопло /ID90",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -3151,7 +3151,7 @@ export const dataProducts = [{
 }, {
   "id": "12517",
   "i": null,
-  "n": "Тележка транспортная MC\/1",
+  "n": "Тележка транспортная MC/1",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621715 Machien options - cleaning system universal",
   "s": 0
@@ -3165,7 +3165,7 @@ export const dataProducts = [{
 }, {
   "id": "12519",
   "i": null,
-  "n": "Тележка E 327\/1",
+  "n": "Тележка E 327/1",
   "p": "247000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -3179,28 +3179,28 @@ export const dataProducts = [{
 }, {
   "id": "12521",
   "i": null,
-  "n": "тележка E 439\/3",
+  "n": "тележка E 439/3",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12522",
   "i": null,
-  "n": "Тележка E 525\/1",
+  "n": "Тележка E 525/1",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12523",
   "i": null,
-  "n": "Тележка E 525\/2",
+  "n": "Тележка E 525/2",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12524",
   "i": null,
-  "n": "Тележка E 528\/2",
+  "n": "Тележка E 528/2",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
@@ -3228,14 +3228,14 @@ export const dataProducts = [{
 }, {
   "id": "12528",
   "i": null,
-  "n": "Тележка инжектор E 404\/1",
+  "n": "Тележка инжектор E 404/1",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12529",
   "i": null,
-  "n": "Тележка инжектор E 405\/1",
+  "n": "Тележка инжектор E 405/1",
   "p": "887000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -3256,84 +3256,84 @@ export const dataProducts = [{
 }, {
   "id": "12532",
   "i": null,
-  "n": "Тележка инжектор E 435\/3",
+  "n": "Тележка инжектор E 435/3",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12533",
   "i": null,
-  "n": "Тележка инжектор E 436\/3",
+  "n": "Тележка инжектор E 436/3",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12534",
   "i": null,
-  "n": "Тележка инжектор E 450\/1",
+  "n": "Тележка инжектор E 450/1",
   "p": null,
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
 }, {
   "id": "12535",
   "i": null,
-  "n": "Тележка инжектор E 515\/1",
+  "n": "Тележка инжектор E 515/1",
   "p": "1513000.00",
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12536",
   "i": null,
-  "n": "Тележка инжектор E 526\/1",
+  "n": "Тележка инжектор E 526/1",
   "p": "1615000.00",
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12537",
   "i": null,
-  "n": "Тележка инжектор E 701\/1",
+  "n": "Тележка инжектор E 701/1",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12538",
   "i": null,
-  "n": "Тележка инжектор E 705\/2",
+  "n": "Тележка инжектор E 705/2",
   "p": "1838000.00",
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12539",
   "i": null,
-  "n": "Тележка инжектор E 715\/1",
+  "n": "Тележка инжектор E 715/1",
   "p": "1606000.00",
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12540",
   "i": null,
-  "n": "Тележка инжектор Е 902\/1",
+  "n": "Тележка инжектор Е 902/1",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12541",
   "i": null,
-  "n": "Тележка многоуровневая Е 701\/2",
+  "n": "Тележка многоуровневая Е 701/2",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12542",
   "i": null,
-  "n": "Тележка многоуровневая Е 900-5\/2",
+  "n": "Тележка многоуровневая Е 900-5/2",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
 }, {
   "id": "12543",
   "i": null,
-  "n": "Тележка многоуровневая Е 900-5\/2",
+  "n": "Тележка многоуровневая Е 900-5/2",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
@@ -3354,7 +3354,7 @@ export const dataProducts = [{
 }, {
   "id": "12546",
   "i": null,
-  "n": "Тележка-инжектор Е 915\/3",
+  "n": "Тележка-инжектор Е 915/3",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620717 Baskets and inserts",
   "s": 0
@@ -3368,14 +3368,14 @@ export const dataProducts = [{
 }, {
   "id": "12548",
   "i": null,
-  "n": "Транспортная тележка MF 27\/28-1",
+  "n": "Транспортная тележка MF 27/28-1",
   "p": null,
   "t": "620000 Автоматы для мойки и дезинфекции ЦСО - 620715 Machine options - Decontamination units",
   "s": 0
 }, {
   "id": "12549",
   "i": null,
-  "n": "Транспортная тележка MF\/3",
+  "n": "Транспортная тележка MF/3",
   "p": "1446000.00",
   "t": "621000 Автоматы для мойки и дезинфекции - 621717 Baskets and inserts washer disinf.",
   "s": 0
@@ -3384,18 +3384,18 @@ export const dataProducts = [{
   "i": null,
   "n": "Шланг-Дуршлаг",
   "p": null,
-  "t": "Аксессуары к бытовой технике - Принадлежности к модульным панелям \"Комби\"",
+  "t": "Аксессуары к бытовой технике - Принадлежности к модульным панелям",
   "s": 0
 }, {
   "id": "12568",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f59\/f5919085539ff47af06b6589006d693d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SGFA3 Complete C3 TotalCare морской синий",
   "p": "241900.00",
   "t": "Пылесосы - Серия Complete C3 (S8)",
   "s": 1
 }, {
   "id": "12569",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/4b3\/4b3f131384962e8b4fd5a88cb2d05035.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SGPA3 Complete C3 Comfort Electro бронзовый",
   "p": "453900.00",
   "t": "Пылесосы - Серия Complete C3 (S8)",
@@ -3969,21 +3969,21 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12651",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f80\/f80bc981f68a640e5c405800b2c57fac.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Вакууматор EVS7010 BRWS бриллиантовый белый",
   "p": "1620000.00",
   "t": "Вакууматоры",
   "s": 0
 }, {
   "id": "12652",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9af\/9af37804997abbef9e516798fbe50bcd.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Вакууматор EVS7010 GRGR графитовый серый",
   "p": "1620000.00",
   "t": "Вакууматоры",
   "s": 1
 }, {
   "id": "12653",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/24d\/24de9a886ff32d10b46fb537bca9b663.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Вакууматор EVS7010 OBSW черный обсидиан",
   "p": "1620000.00",
   "t": "Вакууматоры",
@@ -4032,105 +4032,105 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12660",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f4c\/f4c7d5a0d9a523d2b61fc186d21ffa18.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Подогреватель пищи ESW7010 BRWS бриллиантовый белый",
   "p": "730000.00",
   "t": "Подогреватели посуды и пищи",
   "s": 0
 }, {
   "id": "12661",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9fd\/9fda381dab6521bd1e8c3141473dcff4.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Подогреватель пищи ESW7010 GRGR графитовый серый",
   "p": "730000.00",
   "t": "Подогреватели посуды и пищи",
   "s": 0
 }, {
   "id": "12662",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/cb5\/cb5493542cdd319dd6e1ed2cb4dd5d61.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина зерновая CVA7440 BRWS бриллиантовый белый",
   "p": "2015000.00",
   "t": "Кофемашины - Зерновые кофемашины",
   "s": 0
 }, {
   "id": "12663",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/64d\/64d0ad41992f6e62601031d68d7bd011.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина зерновая CVA7440 CLST сталь",
   "p": "1940000.00",
   "t": "Кофемашины - Зерновые кофемашины",
   "s": 1
 }, {
   "id": "12664",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/147\/147d913ead775d7ef9c154bfec0624dc.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина зерновая CVA7440 GRGR графитовый серый",
   "p": "2015000.00",
   "t": "Кофемашины - Зерновые кофемашины",
   "s": 0
 }, {
   "id": "12665",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/84c\/84c117333a86a147a9107fa9ec4ff003.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина зерновая CVA7440 OBSW черный обсидиан",
   "p": "2015000.00",
   "t": "Кофемашины - Зерновые кофемашины",
   "s": 1
 }, {
   "id": "12666",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/642\/6427084f7eef7023a70ae64e570f84b8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина зерновая CVA7845 BRWS бриллиантовый белый",
   "p": "2965000.00",
   "t": "Кофемашины - Зерновые кофемашины",
   "s": 1
 }, {
   "id": "12667",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/be2\/be2f782052db356b44c4292005a2530a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина зерновая CVA7845 CLST сталь",
   "p": "2890000.00",
   "t": "Кофемашины - Зерновые кофемашины",
   "s": 0
 }, {
   "id": "12668",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/4c3\/4c3474abbef444e7d6d3dd6cb7d0920c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина зерновая CVA7845 GRGR графитовый серый",
   "p": "2965000.00",
   "t": "Кофемашины - Зерновые кофемашины",
   "s": 1
 }, {
   "id": "12669",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ab5\/ab59d185b4ebbbb22c4fce42f384cd87.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина зерновая CVA7845 OBSW черный обсидиан",
   "p": "2965000.00",
   "t": "Кофемашины - Зерновые кофемашины",
   "s": 0
 }, {
   "id": "12670",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b70\/b70d1c8fd5a43dc295e20f43dc80f67c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Подогреватель пищи ESW7020 BRWS бриллиантовый белый",
   "p": "810000.00",
   "t": "Подогреватели посуды и пищи",
   "s": 0
 }, {
   "id": "12671",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c37\/c376be56fcfbf7530956304b972d39bb.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Подогреватель пищи ESW7020 GRGR графитовый серый",
   "p": "810000.00",
   "t": "Подогреватели посуды и пищи",
   "s": 0
 }, {
   "id": "12672",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9d4\/9d4e21f22c289ef2ab6f670149268526.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Подогреватель пищи ESW7020 OBSW черный обсидиан",
   "p": "810000.00",
   "t": "Подогреватели посуды и пищи",
   "s": 0
 }, {
   "id": "12673",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c6e\/c6efeb908e6b22485d53e35cae1e9c1e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Подогреватель пищи ESW7010 OBSW черный обсидиан",
   "p": "730000.00",
   "t": "Подогреватели посуды и пищи",
   "s": 1
 }, {
   "id": "12674",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5a5\/5a5d630389f747e2f513ce0645f2b661.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Подогреватель пищи ESW7020 CLST сталь",
   "p": "810000.00",
   "t": "Подогреватели посуды и пищи",
@@ -4138,14 +4138,14 @@ export const dataProducts = [{
 }, {
   "id": "12675",
   "i": "https://www.technodom.kz/under/miele/product-image/12675.png",
-  "n": "Отдельно стоящий морозильник FNS28463 ed\/cs",
+  "n": "Отдельно стоящий морозильник FNS28463 ed/cs",
   "p": "1380000.00",
   "t": "Холодильники и морозильники",
   "s": 1
 }, {
   "id": "12676",
   "i": "https://www.technodom.kz/under/miele/product-image/12676.png",
-  "n": "Отдельно стоящий холодильник KS28423D ed\/cs",
+  "n": "Отдельно стоящий холодильник KS28423D ed/cs",
   "p": "1250000.00",
   "t": "Холодильники и морозильники",
   "s": 1
@@ -4207,98 +4207,98 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12685",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ddc\/ddcedf5fc5853a748bc9232848958016.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Фильтр AirClean Plus RX2-AP",
   "p": "10000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "12686",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/8f9\/8f914b7e2f228537b1e02d50d607b587.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Турбощетка RX2-BW",
   "p": "17000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "12687",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e4a\/e4a1ee8970401a17a0d764fcc928a76d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Боковые щётки RX2-SB",
   "p": "13000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "12688",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/bda\/bdab4cc10630d918e8b427a341b2d9c8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Набор уплотнительных планок RX2-DL",
   "p": "16000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "12689",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/612\/612a0db01db1e994366c0e0db4578dd0.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Планка HAL 5900",
   "p": "81000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "12693",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/898\/898c44b386c0f778eb322d8f18eea29f.jpeg",
-  "n": "Противень без перфорации DGG 1\/1",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Противень без перфорации DGG 1/1",
   "p": "32500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пароваркам",
   "s": 0
 }, {
   "id": "12694",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ca9\/ca98c86fff779e4940d3877fa391af8f.jpeg",
-  "n": "Противень перфорированный DGGL1\/1",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Противень перфорированный DGGL1/1",
   "p": "39000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пароваркам",
   "s": 0
 }, {
   "id": "12695",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/55e\/55eceb439e34dd28ab7ce33287cecfb0.jpeg",
-  "n": "Стеклянный поддон DMGS 1\/1",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Стеклянный поддон DMGS 1/1",
   "p": "48500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пароваркам",
   "s": 0
 }, {
   "id": "12697",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/805\/805ac03eaa4076dc61f6e334d387e46b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Картридж UltraPhase 2",
   "p": "13000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "12699",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/024\/0241e51a133a6a69a864c62dd744e30b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Набор Caps Collection (6 шт.)",
   "p": "6500.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "12700",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/261\/261695a175c41f751df5eee911333ee9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для стирки в капсулах Caps CottonRepair (3 шт.)",
   "p": "13000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "12701",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7b9\/7b983f8b4072b704061263043423a6f5.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для стирки спортивной одежды",
   "p": "9000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "12702",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f5c\/f5c5b4122704b080b791ed282b3e057c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для стирки спортивной одежды Sport Caps (6 шт.)",
   "p": "6500.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "12706",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d41\/d41793b5216aeee77eea4b8af6526f9a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Набор для чистки посудомоечных и стиральных машин",
   "p": "16000.00",
   "t": "Моющие и чистящие средства - Для посудомоечных машин",
@@ -4361,63 +4361,63 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12725",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/cae\/cae3daf338b4a86651a2dc85567ff6a2.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пластина гриля Гурмэ GGRP",
   "p": "200000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к варочным панелям",
   "s": 1
 }, {
   "id": "12727",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7e6\/7e65cb520132ef8184e2d6c525982e24.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Картридж PowerDisk (400 гр.)",
   "p": "7500.00",
   "t": "Моющие и чистящие средства - Для посудомоечных машин",
   "s": 1
 }, {
   "id": "12728",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/43b\/43bd0098f577977301ba50909d0046c7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Картридж для очистки кофемашин CVA AutoCleaner",
   "p": "51000.00",
   "t": "Моющие и чистящие средства - Для кофемашин",
   "s": 1
 }, {
   "id": "12729",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/301\/301b156943e9948983552ae392feca73.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофе Miele Black Edition CAFÉ CREMA 4x250 гр.",
   "p": "24000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к кофемашинам",
   "s": 1
 }, {
   "id": "12730",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/30a\/30a928e05aaebaa26ad623daf3e1612e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофе Miele Black Edition DECAF 4x250 гр.",
   "p": "24000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к кофемашинам",
   "s": 1
 }, {
   "id": "12731",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a05\/a054def3f754549323e743f9c699a605.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофе Miele Black Edition ESPRESSO 4x250 гр.",
   "p": "24000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к кофемашинам",
   "s": 1
 }, {
   "id": "12732",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a72\/a72ab3b3dd55f4198403cf1b587bca44.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофе Miele Black Edition ONE FOR ALL 4x250 гр.",
   "p": "24000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к кофемашинам",
   "s": 1
 }, {
   "id": "12733",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/208\/208fcfbd2f9b4b27c7b1e77cc1c92779.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Набор картриджей PowerDisk (6 шт. * 400 гр.)",
   "p": "100.00",
   "t": "Моющие и чистящие средства - Для посудомоечных машин",
   "s": 1
 }, {
   "id": "12734",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/76e\/76eb8f292043ede4a228cfdfd720fc94.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SGDA3 Complete C3 манговый красный",
   "p": "145900.00",
   "t": "Пылесосы - Серия Complete C3 (S8)",
@@ -4452,7 +4452,7 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12741",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/767\/767b735d23b342d5ba32d9b58488acb9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Комплект таблеток Ultra Tabs Multi Series 120 (6 уп. * 20 шт.)",
   "p": "24000.00",
   "t": "Моющие и чистящие средства - Для посудомоечных машин",
@@ -4480,7 +4480,7 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12748",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/835\/8358c0c24ca1ed42a0d0e34665b1d35a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Набор средств по уходу за техникой для кухни",
   "p": "12500.00",
   "t": "Моющие и чистящие средства - Для духовых шкафов",
@@ -4529,50 +4529,50 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12757",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a56\/a56eaa68c549e88d01f1ee9dbf7ddd04.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Комплект мешков-пылесборников Universal XL pack HyClean 3D GN",
   "p": "22000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "12758",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/2f8\/2f8bd99820cfc0eb5655e1b6fc5484b5.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Декоративный цоколь KTK 3020 ed",
   "p": "53000.00",
   "t": "Аксессуары к бытовой технике - Принадлежности к холодильникам",
   "s": 0
 }, {
   "id": "12759",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f42\/f426f2dd9feda12b739c66d0d98bdd46.jpeg",
-  "n": "Фронтальная панель KFP 2455 ed\/cs",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Фронтальная панель KFP 2455 ed/cs",
   "p": "723000.00",
   "t": "Аксессуары к бытовой технике - Принадлежности к холодильникам",
   "s": 0
 }, {
   "id": "12760",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/345\/3459708a07c814187dda658922595648.jpeg",
-  "n": "Фронтальная панель KFP 3005 ed\/cs",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Фронтальная панель KFP 3005 ed/cs",
   "p": "577000.00",
   "t": "Аксессуары к бытовой технике - Принадлежности к холодильникам",
   "s": 0
 }, {
   "id": "12761",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/bcb\/bcbbd05fa81d8b958801447b1f3a2799.jpeg",
-  "n": "Фронтальная панель KFP 3615 ed\/cs",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Фронтальная панель KFP 3615 ed/cs",
   "p": "472000.00",
   "t": "Аксессуары к бытовой технике - Принадлежности к холодильникам",
   "s": 0
 }, {
   "id": "12762",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ca4\/ca417c9e7602366243314f0b91007ce9.jpeg",
-  "n": "Фронтальная панель KFP 3625 ed\/cs",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Фронтальная панель KFP 3625 ed/cs",
   "p": "327000.00",
   "t": "Аксессуары к бытовой технике - Принадлежности к холодильникам",
   "s": 0
 }, {
   "id": "12763",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5a8\/5a8906acc0b21dba569b9130405245e0.jpeg",
-  "n": "Фронтальная панель KFP 3635 ed\/cs",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Фронтальная панель KFP 3635 ed/cs",
   "p": "365000.00",
   "t": "Аксессуары к бытовой технике - Принадлежности к холодильникам",
   "s": 0
@@ -4593,7 +4593,7 @@ export const dataProducts = [{
 }, {
   "id": "12773",
   "i": null,
-  "n": "Билет на мастер класс \"Готовим вместе с Miele\"",
+  "n": "Билет на мастер класс",
   "p": "15000.00",
   "t": null,
   "s": 0
@@ -4613,49 +4613,49 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12777",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/fbf\/fbf4d08ea25ea87ed0123fc95b4868f9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Декоративный цоколь KTK 1820 ed",
   "p": "38000.00",
   "t": "Аксессуары к бытовой технике - Принадлежности к холодильникам",
   "s": 0
 }, {
   "id": "12778",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/253\/253f78196f33df1517647aeccbd1c0f3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Декоративный цоколь KTK 2420 ed",
   "p": "46000.00",
   "t": "Аксессуары к бытовой технике - Принадлежности к холодильникам",
   "s": 0
 }, {
   "id": "12779",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7bb\/7bbf77846ebe764446de7f700cdff160.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Декоративный цоколь KTK 3620 ed",
   "p": "61000.00",
   "t": "Аксессуары к бытовой технике - Принадлежности к холодильникам",
   "s": 0
 }, {
   "id": "12780",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/790\/790c861b21d347df0caab0c23c4fd67c.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Комплект для установки KSK 2001",
   "p": "545000.00",
   "t": "Аксессуары к бытовой технике - Принадлежности к холодильникам",
   "s": 0
 }, {
   "id": "12796",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/4cf\/4cf73e19d2c1b4201b3249d2402b0254.jpeg",
-  "n": "Фронтальная панель KFP 3605 ed\/es",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Фронтальная панель KFP 3605 ed/es",
   "p": "616000.00",
   "t": "Аксессуары к бытовой технике - Принадлежности к холодильникам",
   "s": 0
 }, {
   "id": "12802",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e48\/e4894face9cdf0e31d118ccc6c385468.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Панель комби (вок) CS 7641 FL",
   "p": "1685000.00",
   "t": "Модульные панели SmartLine - Модульные панели SmartLine",
   "s": 0
 }, {
   "id": "12803",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d67\/d67d0814c8e840d7fd5917368a823cf0.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Панель комби (вытяжка) CSDA7001 FL",
   "p": "900000.00",
   "t": "Модульные панели SmartLine - Модульные панели SmartLine",
@@ -4676,14 +4676,14 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12820",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5a7\/5a76ca580e45d27689965d48f0478944.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Панель комби (газ) CS 7101-1 FL",
   "p": "820000.00",
   "t": "Модульные панели SmartLine - Модульные панели SmartLine",
   "s": 0
 }, {
   "id": "12821",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b14\/b14e3484fb7625e68dc17efdce95ae04.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Панель комби (газ) CS 7102-1 FL",
   "p": "810000.00",
   "t": "Модульные панели SmartLine - Модульные панели SmartLine",
@@ -4739,52 +4739,52 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12848",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5b3\/5b3a9f96895983f1587359c9fb5df03e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Стартовый набор для посудомоечных машин",
   "p": "16000.00",
   "t": "Моющие и чистящие средства - Для посудомоечных машин",
   "s": 1
 }, {
   "id": "12850",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/485\/4859615cf9ab7ef8840a486d8a4cf798.jpeg",
-  "n": "Фронтальная панель KFP1805 ed\/cs",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
+  "n": "Фронтальная панель KFP1805 ed/cs",
   "p": "472000.00",
   "t": "Аксессуары к бытовой технике - Принадлежности к холодильникам",
   "s": 0
 }, {
   "id": "12851",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/4c6\/4c69d97fde0aa7e5b748a71064af6ede.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Магнитная лента RX-MB для робота-пылесоса Scout",
   "p": "18500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "12852",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/50a\/50a9f83bd16cdbfbf0ebf8d78550ffed.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Набор аксессуаров RX2-A для робота-пылесоса Scout RX2",
   "p": "49500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "12853",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ae5\/ae5444d1352f180dc662db98d42c4464.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SGMA3 Complete C3 Comfort петроль",
   "p": "241900.00",
   "t": "Пылесосы - Серия Complete C3 (S8)",
   "s": 1
 }, {
   "id": "12854",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/116\/1168723e45caadbe56b0f6c61faab643.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Форма для запекания универсальная HUB5001-XL",
   "p": "212000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 0
 }, {
   "id": "12855",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/3a5\/3a5b0a6c88f10c60a1f0032c2b18cc81.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Комплект переоборудования DUU1000-2",
   "p": "307000.00",
-  "t": "Аксессуары к бытовой технике - Принадлежности к модульным панелям \"Комби\"",
+  "t": "Аксессуары к бытовой технике - Принадлежности к модульным панелям",
   "s": 0
 }, {
   "id": "12859",
@@ -4795,28 +4795,28 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12860",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/87d\/87d2e8e56b99f635aae849447bf0f28e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Абсорбирующий влагу фильтр DAEF 28",
   "p": "124000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "12861",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/26a\/26ab53646807f7b04459b3b82aee5940.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Ароматизатор для вытяжки Aura SummerGarden",
   "p": "15000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "12862",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/96b\/96b9d0cfe572c1c6a0044b906b9075b4.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Угольный фильтр реактивируемый DKF 28-R",
   "p": "202000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "12866",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e6c\/e6c9f8ab19bdf0bf254c799efc5261df.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SGDA3 Complete C3 Score Red ежевичный красный",
   "p": "145900.00",
   "t": "Пылесосы - Серия Complete C3 (S8)",
@@ -4872,70 +4872,70 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "12879",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/da8\/da8821523f9c2d9e8c6ce9ba50714bae.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Угольный фильтр DKF 29",
   "p": "47000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "12880",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/63b\/63b3f4a84bb259a06ddaa284a2cc7f2b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Короб для вытяжки DADC 9000 CLST сталь",
   "p": "93000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 1
 }, {
   "id": "12881",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/6ff\/6ffe7dc45c77cd4e496c134ece5d341a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Литий-ионный аккумулятор HX-LA",
   "p": "100000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "12882",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d78\/d78e21429dca872175f4ad9d28b6cb5a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Отсек для зарядки аккумулятора HX LS",
   "p": "67000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "12883",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/8b9\/8b934aff66d6865313f36a6e47b4ea91.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Электрощетка компактная HX SEB",
   "p": "67000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "12884",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c96\/c967d5b9082282b3993c9ace2fbc0a5e.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Фильтр HX FSF",
   "p": "25000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 0
 }, {
   "id": "12885",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/56e\/56e221f350e699d2fc035a1685eab9f8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина CM5310 OBSW черный обсидиан",
   "p": "590000.00",
   "t": "Кофемашины - Соло кофемашины",
   "s": 1
 }, {
   "id": "12886",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/43f\/43f31578a6e5d990f7180ffbc1669d79.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина CM5510 ROPF розовое золото",
   "p": "665000.00",
   "t": "Кофемашины - Соло кофемашины",
   "s": 1
 }, {
   "id": "12889",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9ee\/9ee6dd4f9fa636b7842b576f8b145912.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Короб для вытяжки DADC 7000 GRGR графитовый серый",
   "p": "114000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "12890",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/17b\/17b7fc3570df174c3978c37f28430a86.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Короб для вытяжки DADC 7000 OBSW обсидиан черный",
   "p": "114000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
@@ -4949,42 +4949,42 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12894",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/12d\/12db8e2d5a239f60a79643c9a0b8fa50.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина CM6160 LOWS белый лотос",
   "p": "809000.00",
   "t": "Кофемашины - Соло кофемашины",
   "s": 1
 }, {
   "id": "12895",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/cfb\/cfb210e4544ef8eb8b0a8fa0be164246.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина CM6160 OBSW чёрный обсидиан",
   "p": "809000.00",
   "t": "Кофемашины - Соло кофемашины",
   "s": 1
 }, {
   "id": "12896",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/8fb\/8fbc1ab77e63a5dce2dcbea7a6b38c52.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина CM6360 LOCM белый металлик",
   "p": "965000.00",
   "t": "Кофемашины - Соло кофемашины",
   "s": 1
 }, {
   "id": "12897",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c8c\/c8ca8f8078442f6fd6ed4c1c75df8476.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кофемашина CM6360 OBCM чёрный металлик",
   "p": "965000.00",
   "t": "Кофемашины - Соло кофемашины",
   "s": 1
 }, {
   "id": "12900",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c5d\/c5d030d67a395498bec23798fbfd3ec0.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Картридж UltraPhase 1 Sensitive",
   "p": "15000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "12901",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/26b\/26bd0b1dd1392fa625e177df27db6425.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Картридж UltraPhase 2 Sensitive",
   "p": "15000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
@@ -5047,7 +5047,7 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "12927",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d79\/d791a0d62d23cf0ef008547299435e71.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Контейнер для молока MC - CM-G",
   "p": "46000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к кофемашинам",
@@ -5145,28 +5145,28 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "13005",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/0a3\/0a32e18646fb5184a021a6e4b6ea4f44.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Картридж UltraPhase 1 Refresh Elixir",
   "p": "13000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "13006",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b19\/b193a7ef58216ecc65033cf4552d237d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Картридж UltraPhase 2 Refresh Elixir",
   "p": "13000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "13007",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/0a0\/0a02fbf598bb2f049388b9223a37ac4d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SGDA3 Complete C3 Select графитовый серый",
   "p": "145900.00",
   "t": "Пылесосы - Серия Complete C3 (S8)",
   "s": 1
 }, {
   "id": "13019",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/153\/153f66b1ae35df2f9bc4653bb0e79af7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Флакон с ароматизатором DryFresh",
   "p": "9000.00",
   "t": "Моющие и чистящие средства - Для сушильных машин",
@@ -5180,7 +5180,7 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "13072",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7d4\/7d421db8777c5ac07d467cc2964d87dd.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для чистки TwinDos CARE",
   "p": "9500.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
@@ -5194,7 +5194,7 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "13127",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d6f\/d6ffc08b01d24e08a92058e20802fce6.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Комплект таблеток Ultra Tabs Multi (3 уп. * 20 шт.)",
   "p": "15000.00",
   "t": "Моющие и чистящие средства - Для посудомоечных машин",
@@ -5222,28 +5222,28 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "13157",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/8c3\/8c36dfb3f83aa91fb6c724bd23890435.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Гладильная система B4312",
   "p": "863000.00",
   "t": "Гладильные машины",
   "s": 0
 }, {
   "id": "13158",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ac0\/ac0c0f21bf7f35b3063a54069844992a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Гладильная система B4847",
   "p": "1071000.00",
   "t": "Гладильные машины",
   "s": 0
 }, {
   "id": "13207",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5eb\/5eb43ce21f1e96f4684fb2ec11a89f06.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Робот-пылесос SPQL0 Scout RX3 OBSW чёрный обсидиан",
   "p": "441900.00",
   "t": "Пылесосы - Роботы-пылесосы",
   "s": 1
 }, {
   "id": "13208",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/1a3\/1a3fb6e4b5905167134773b0c511c698.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Робот-пылесос SPQL0 Scout RX3 Home Vision HD",
   "p": "504900.00",
   "t": "Пылесосы - Роботы-пылесосы",
@@ -5257,35 +5257,35 @@ export const dataProducts = [{
   "s": 0
 }, {
   "id": "13226",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/1b8\/1b84a12cf1d98425a67c867253bddf37.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SNCF0 Boost CX1 Parquet белый лотос",
   "p": "182900.00",
   "t": "Пылесосы - Безмешковые пылесосы",
   "s": 1
 }, {
   "id": "13227",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/cd2\/cd2ae563bf46a24aa08de7f83cecc1e3.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SNRF0 Boost CX1 чёрный обсидиан",
   "p": "149900.00",
   "t": "Пылесосы - Безмешковые пылесосы",
   "s": 1
 }, {
   "id": "13228",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e37\/e376dd61f9bb0e487f345fa714fd8e9a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Пылесос SNRF0 Boost CX1 графитовый серый",
   "p": "149900.00",
   "t": "Пылесосы - Безмешковые пылесосы",
   "s": 1
 }, {
   "id": "13229",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/168\/168592bdf9e6074d5a629543791e416a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для удаления пятен Booster Caps (6 шт.)",
   "p": "6500.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "13230",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/154\/154cd2dce073f9e3715e23b21d521ed8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Универсальная насадка SBD 285-3",
   "p": "55000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
@@ -5328,7 +5328,7 @@ export const dataProducts = [{
 }, {
   "id": "13236",
   "i": null,
-  "n": "Подключение отдельностоящего холодильника\/морозильника",
+  "n": "Подключение отдельностоящего холодильника/морозильника",
   "p": "4000.00",
   "t": "Платные услуги",
   "s": 0
@@ -5356,7 +5356,7 @@ export const dataProducts = [{
 }, {
   "id": "13240",
   "i": null,
-  "n": "Подключение пристенной\/островной вытяжки к подготовленным коммуникациям",
+  "n": "Подключение пристенной/островной вытяжки к подготовленным коммуникациям",
   "p": "10000.00",
   "t": "Платные услуги",
   "s": 0
@@ -5412,7 +5412,7 @@ export const dataProducts = [{
 }, {
   "id": "13248",
   "i": null,
-  "n": "Установка встроенного холодильника\/морозильника, без фасада",
+  "n": "Установка встроенного холодильника/морозильника, без фасада",
   "p": "8000.00",
   "t": "Платные услуги",
   "s": 0
@@ -5586,175 +5586,175 @@ export const dataProducts = [{
   "s": 1
 }, {
   "id": "13348",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/52b\/52b383865524c090fff8a9005f7284da.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для стирки деликатных тканей WoolCare (1,5 л)",
   "p": "11500.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 0
 }, {
   "id": "13370",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/6b8\/6b859889f50f7561f8a6d79aa8f90f47.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Средство для стирки цветного белья UltraColor (1,5 л)",
   "p": "9000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 0
 }, {
   "id": "13377",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/64f\/64f64e18142d4c21d24eee3f992438e4.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Кондиционер для белья UltraSoft",
   "p": "8000.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "13382",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/7b8\/7b819ce5ca0b7b950af6baa9c8906cb5.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Регенерируемый угольный фильтр DKF 31-R",
   "p": "318000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 1
 }, {
   "id": "13384",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a0c\/a0ca6c2e791e2082e22e6d49e18b628b.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Набор аксессуаров DUP 150",
   "p": "126000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "13388",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/9f2\/9f2662f06996ad98984404deb82d67f8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Противень для тепан-яки KMTY",
   "p": "215000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к варочным панелям",
   "s": 1
 }, {
   "id": "13389",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/0ea\/0ea469744e612d18508e6c6e4f149d39.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Комплект для переоборудования в режим циркуляции DUU 600",
   "p": "165000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "13405",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/cbb\/cbbe6d4cc7c437518fd2027ac3eba90f.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Комплект картриджей UltraPhase",
   "p": "100.00",
   "t": "Моющие и чистящие средства - Для стиральных машин",
   "s": 1
 }, {
   "id": "13406",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ecd\/ecda708f9d2ba27154fbd45c75d4f5f0.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "KMTS 5704-2 | Комплект посуды All Steel с логотипом Miele (4 предмета)",
   "p": "275000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к варочным панелям",
   "s": 1
 }, {
   "id": "13407",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c3f\/c3fac004efae7628c3d0b797c69761c7.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "KMBP 2800-2 | Сковорода All Steel (28 см)",
   "p": "80000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к варочным панелям",
   "s": 1
 }, {
   "id": "13408",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/feb\/feb2d0d4263bac23f84170d06518bce8.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "KMKT 1825-2 | Кастрюля All Steel (18 см | 2,5 л)",
   "p": "80000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к варочным панелям",
   "s": 1
 }, {
   "id": "13409",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/b42\/b42a3aac29f0ddd570e0c1ece7682c0a.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "KMKT 2040-2 | Кастрюля All Steel (20 см | 4 л)",
   "p": "95000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к варочным панелям",
   "s": 1
 }, {
   "id": "13410",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/4b0\/4b0d8a03bba03e214f60f0c131ca03e5.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "KMKT 2460-2 | Кастрюля All Steel (24 см | 6 л)",
   "p": "130000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к варочным панелям",
   "s": 1
 }, {
   "id": "13411",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/a82\/a82f6d40560c801ac0f5099ab4708c18.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Активный угольный фильтр AirClean DKF 30-P",
   "p": "92000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 1
 }, {
   "id": "13412",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/899\/8994a934e2aa409898eb27b9dd6285d9.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Активный угольный фильтр AirClean DKFS 31-P",
   "p": "67000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 0
 }, {
   "id": "13413",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/f72\/f72ceff96dc604604512c3fa4c79b93f.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Регенерируемый угольный фильтр AirClean Longlife DKF 30-R",
   "p": "252000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 1
 }, {
   "id": "13414",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d80\/d80b8f60dd92d3e1bc0a99a42157a751.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Регенерируемый угольный фильтр AirClean Longlife DKFS 31-R",
   "p": "336000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 1
 }, {
   "id": "13415",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/ecb\/ecb218ae9534d9b7c6a7ee0907db1365.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Угольный фильтр DKF 31-P",
   "p": "58000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 1
 }, {
   "id": "13416",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/e21\/e21f2747305cf674e16bca979dce03ca.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Фильтр CX FSF",
   "p": "25000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "13417",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/386\/3868dbb52e4a06ea4237cdc8fa286f66.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Фильтр SF-HA 60",
   "p": "19500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "13418",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/463\/4638a326128806fd43977527c2fb6e1d.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Фильтр SF-HY 60",
   "p": "11000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к пылесосам",
   "s": 1
 }, {
   "id": "13425",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/5a7\/5a74822a8ccf67bd36bc71db082bbac1.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Форма для запекания Гурмэ HUB 62-22",
   "p": "175000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 1
 }, {
   "id": "13426",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/c03\/c03e22259e2ee53d97aa9f2713cd06b0.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "Форма для запекания Гурмэ HUB 62-35",
   "p": "225000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к духовым шкафам",
   "s": 1
 }, {
   "id": "13449",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/0a7\/0a781d8f5e8e129d0844cf2a9845fe24.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "DMK 150-1 настенный короб с решёткой",
   "p": "195000.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
   "s": 1
 }, {
   "id": "13450",
-  "i": "https:\/\/mca.miele.kz\/upload\/iblock\/d42\/d425592b9156cea75d77157b27acca72.jpeg",
+  "i": "https://www.technodom.kz/under/miele/product-card-thumbnaul.png",
   "n": "DFK-AK 90 Переходник для плоского воздуховода",
   "p": "30500.00",
   "t": "Аксессуары к бытовой технике - Аксессуары к вытяжкам",
