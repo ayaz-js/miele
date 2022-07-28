@@ -7,10 +7,12 @@ import {
   inputPhone,
   inputEmail,
   successPopup,
-  popupWrapper
+  popupWrapper,
+  words
 } from './constants';
 
 import createItemThumb from './createItemThumb';
+import { declOfNum } from './util';
 
 class PopupClass {
   constructor(initialData) {
@@ -40,6 +42,16 @@ class PopupClass {
     this._renderProductsInPopup()
     this._calculatePrice()
     this._addEventListeners()
+    this._countProducts()
+  }
+
+  _countProducts() {
+    const products = Array.from(this.chosenProducts).map(product => product.count)
+    const reduced = products.reduce((previousValue, currentValue) => previousValue + currentValue,
+     0
+    );
+    document.querySelector('.cart__word').textContent = declOfNum(reduced, words)
+    document.querySelector('.cart__number').textContent = reduced
   }
 
   _closePopup() {
@@ -93,11 +105,13 @@ class PopupClass {
   _countPlus(event) {
     const id = event.currentTarget.dataset.id
     this._increment(id)
+    this._countProducts()
   }
 
   _countMinus(event) {
     const id = event.currentTarget.dataset.id
     this._decrement(id)
+    this._countProducts()
   }
 
   _increment(id) {

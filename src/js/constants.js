@@ -39,3 +39,6 @@ export const popupWrapper = document.querySelector('.popup__wrapper');
 
 // Cart
 export const cartButton = document.querySelector('.cart__button')
+
+// words
+export const words = ['товар', 'товара', 'товаров']
