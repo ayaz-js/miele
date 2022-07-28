@@ -46,6 +46,7 @@ class PopupClass {
     popup.style.display = 'none';
     document.body.style.overflow = 'auto';
     successPopup.classList.remove('popup__success--show')
+    popup.classList.remove('popup__align_center');
     this._removeEventListeners();
   }
 
@@ -165,6 +166,7 @@ class PopupClass {
     body: formData,
     })
     popupWrapper.classList.add('popup__wrapper--hide')
+    popup.classList.add('popup__align_center');
     successPopup.classList.add('popup__success--show')
     inputName.value = ''
     inputPhone.value = ''
